@@ -1,0 +1,45 @@
+#il carattere '#' ad inizio linea definisce un commento
+#Un espressione ben formata di definizione di un parametro prevede il nome del
+#parametro seguito da un uguale seguito dal valore del parametro seguito da 
+#un acapo
+#i valori tra parentesi quadre sono i valori di default
+#parametri non riconosciuti saranno saltati, parametri omessi porteranno un 
+#inizializzazione automatica del corrispondente valore da parte del server
+
+#intervallo di tempo tra 2 serializzazioni (millisecondi) [300000]
+backupTimer=90000
+#percorso cartella dove salvare lo stato del server, se null non verranno
+#eseguiti backup dello stato [null]
+backupPath=C:\Users\Geco\Desktop\597700_ARU_GIACOMO\stato0
+#numero di backup diversi massimi contemporanei [3]
+backupMax=2
+
+#intervallo di tempo tra 2 aggiornamenti portafogli (millisecondi) [150000]
+walletTimer=45000
+#percentuale ricompensa autore (0 <= n <= 1) [0.7]
+authorPerc=0.7
+
+#se il server deve stampare informazioni sull'esecuzione (booleano) [true]
+verbose=true
+
+#porta servizio di registrazione [6969]
+registerServicePort=6969
+#nome servizio di registrazione [REGISTER_SERVICE]
+registerServiceName=REGISTER_SERVICE
+
+#porta servizio di notifica dei follow [6968]
+notifyFollowServicePort=6968
+#porta servizio di registrazione [NOTIFY_FOLLOW_SERVICE]
+notifyFollowServiceName=NOTIFY_FOLLOW_SERVICE
+
+#porta per la connessione tcp verso il server [6967]
+serverPort=6967
+
+#indirizzo multicast [230.0.0.1]
+multicastAddress=230.0.0.1
+#porta messaggi multicast [6966]
+multicastPort=6966
+
+#numero massimo thread poool, se 0 verrà utilizzata una cathcedThreadPool senza
+#limite di thread (si consiglia 0) [0]
+nThread=20

@@ -1,0 +1,3225 @@
+[{
+  "user": "Combusken",
+  "hash": "e2387c16c3b72b4f94e81c08ad7fd9bed1231af20118e33ae391c4800912a7e2",
+  "seed": "9ccvCuCTBvcp9RVf"
+},{
+  "user": "Virizion",
+  "hash": "2890e44da7711c8f915ea7be8bcb089803c12a8a0da255c28962da087419a010",
+  "seed": "zjmLjS1rPPLq6GXd"
+},{
+  "user": "Bewear",
+  "hash": "4c3451399bb802a8017cd91e9d5574b3872ba99434cd9d141403bda209809646",
+  "seed": "3MfulFVPUIu2DU9C"
+},{
+  "user": "Bunnelby",
+  "hash": "e6e0faccff338d1b65da254dc0bc9e8321d8bb806bc153d31c882002b8d53beb",
+  "seed": "J0XiT5VtTlFNIgOb"
+},{
+  "user": "Electrike",
+  "hash": "9fc69922e2f44e534e46a29f9d957c250691ecc616730c93079240ca19e34dce",
+  "seed": "sEQOCqwWCOeYtptE"
+},{
+  "user": "Golem",
+  "hash": "c45f0342a9aa1ab0f150accc7a2e914b25f649d2056e356643c864229c765315",
+  "seed": "R2LDpw8PLt3iXJDY"
+},{
+  "user": "Pikachu",
+  "hash": "ab53255acadb9f7312b4b15bb999745682bc63922920bdef494b38b9aacd7a06",
+  "seed": "T0kNXDRdEy0bPZXV"
+},{
+  "user": "Nidoran♂",
+  "hash": "d6287919771d869b0d5e6bf7d601f5aec3faae4560da333d52bddf71b9dbf7b0",
+  "seed": "KJSdgKVnYHJton25"
+},{
+  "user": "Staraptor",
+  "hash": "4087db680090da48e14658da574c014958b5aba67fc74bd8d8888df330b0b74a",
+  "seed": "gYKQhUlCxro0U4Zb"
+},{
+  "user": "Zygarde",
+  "hash": "498d01dca89bb17990dd6aca5075527c317ab5fe2cae2330306badc0b784e181",
+  "seed": "ybySINlkoZwh87cv"
+},{
+  "user": "Ampharos",
+  "hash": "689972a767e93b45ccca086db67fff19874e33bd523295c0eb04485cd44e8b32",
+  "seed": "vm9sfqHZuoIuavcm"
+},{
+  "user": "Finneon",
+  "hash": "6f16bc0499237278abdd04df0c65eb8a36f991e53346b8e711655a696b12d902",
+  "seed": "N8Y3wGWUwNiGo3N4"
+},{
+  "user": "Espeon",
+  "hash": "a38aef9651d4bf0eef2e5c439a27176539aae82f71adb117f2d93f28b846cd5d",
+  "seed": "WwpeAVvB5EuQHknb"
+},{
+  "user": "Dragalge",
+  "hash": "40e792e989775282ec35fe0aa5bf2a0e9b5a8218881741dc5c315c7d8e6346fa",
+  "seed": "5G6PkbQfRCs7nHrE"
+},{
+  "user": "Tsareena",
+  "hash": "3fd5ee966a294d1f69fc444164ea134305a63a103341c98b8f7f8c8f3e2b5ab4",
+  "seed": "nJXSbxBsNqXHs8Es"
+},{
+  "user": "Grubbin",
+  "hash": "c7ed2409a2d13653eac70ce8a907ea5b380fe3b5f50f958f7a12e58a4e3b561e",
+  "seed": "Ptw6XxJfgH33ajEx"
+},{
+  "user": "Graveler",
+  "hash": "0d46620c29f67171cad34085b20ebec3771a6765adfc20439a1f4196c6792c96",
+  "seed": "YroeKq5Vy8YaVhX4"
+},{
+  "user": "Regice",
+  "hash": "a96ac4be249502332d1c0492c1c096ac73872c48c8f7cac5f4323792383d67e4",
+  "seed": "PeE1OB4ITpAZijgH"
+},{
+  "user": "Linoone",
+  "hash": "54447755fb26994961256de362d903a72267087f3cf582300c38b4a7b187e345",
+  "seed": "4vAYukLcAqerZQAE"
+},{
+  "user": "Gurdurr",
+  "hash": "a60ba18edcdbee1c6282537bd38ddfa029e72cdd5d2fedad56ab7783279ac91a",
+  "seed": "VwaXDQYXqZ0zVC8B"
+},{
+  "user": "Dragonite",
+  "hash": "b5ec923d2f6f45fe81b6e651f03a9a1de878461491aa4cceeef787c8fe0d0025",
+  "seed": "yVt0MBJzWFoMRuUP"
+},{
+  "user": "Basculin",
+  "hash": "87967f2fe306f2a912e5f63a0a2c23ed89c8736e71d228652d6d03a0e00df964",
+  "seed": "d9UbuUgDth6TvN9z"
+},{
+  "user": "Vullaby",
+  "hash": "dd19ab7fcb9862786986a5ca69e658eaa1f946ef71fbd1e51eab3d9635ce1ab4",
+  "seed": "S6vYVXAAtaPZ9lzG"
+},{
+  "user": "Trumbeak",
+  "hash": "a7a619cad44440c5d8c29a11aaa451ffa9ef2063c428e56b16bbddd672b3500c",
+  "seed": "DqInzJnNbJVfQG0n"
+},{
+  "user": "Gardevoir",
+  "hash": "46d148e1d85f61ce3d44076918bb6359f9ab46891bb241045e9e5c323cd144b9",
+  "seed": "nPnoXHoV1RUAB36B"
+},{
+  "user": "Swampert",
+  "hash": "2f70a91d72481b4a0ee48528c360b391b4c36bee4bcf2420c7219d69c921147d",
+  "seed": "fC3lIg1dMIF9JaAX"
+},{
+  "user": "Decidueye",
+  "hash": "0e5de82b43d83a6e009f7123503fa1bfb9fcd483b389dee02941b2eea0f52f0c",
+  "seed": "rjyDdUkQj1xUFy6O"
+},{
+  "user": "Shaymin",
+  "hash": "85cf6947e9495c1ae6e1bb38b5082ea6d53a4d31f62897848397af1afcee7eda",
+  "seed": "pxoPmhMPGrF5LiwG"
+},{
+  "user": "Omastar",
+  "hash": "a19e26fede36f3d8d1c13556bf9da5558ffa0c86f209a0b2ecc870e08e2905f6",
+  "seed": "rBxmTyfb7Kga4Ol0"
+},{
+  "user": "Registeel",
+  "hash": "5a11df8d821878db6b8ad4d268a949fb96974fa13779c1c3e39043b5b6df3f60",
+  "seed": "0nkwLaqTVZmBjMJY"
+},{
+  "user": "Mime",
+  "hash": "c3565a4c102b5190874a73ea2f88ba1add9fe06690e965a2f76c0ccc2eab0121",
+  "seed": "Wv34zPqRAJXgTEs6"
+},{
+  "user": "Weedle",
+  "hash": "124e8022088042111ea31aff4ca768f0baf326c561518681adf09f3ecb12d0c6",
+  "seed": "nkdLsv2XbpsYXCTO"
+},{
+  "user": "Ho-Oh",
+  "hash": "02428c7ab26e75e103dd0239b2db3f42b70f0cce00de518e6500ca79ddf9d01e",
+  "seed": "pl2C47XsPbihvKJx"
+},{
+  "user": "Golduck",
+  "hash": "b477a30075fc8371b1d3d1988d42ae3aceda69f844056e35bf79a7a723f64507",
+  "seed": "3sPb7Oku565QoG6B"
+},{
+  "user": "Sandygast",
+  "hash": "569b624293300e081611b9f37bb1460fbadcbd25abded1a18167f6a48c0dbc72",
+  "seed": "kJPjNvh1RyPJmK5o"
+},{
+  "user": "Escavalier",
+  "hash": "34625fda395f76b0b2cdd442859006de1ed9a8419456fcf44ca4f2f0dd5bed5e",
+  "seed": "bMcz2QUYOYNxhJva"
+},{
+  "user": "Weezing",
+  "hash": "5b4ca8f868d0cce74e5973c78214fcf4a36658108f6df06ff9050ef1bfce4b57",
+  "seed": "xijBEsGezC4trc7a"
+},{
+  "user": "Cottonee",
+  "hash": "6e9f01696088dd88bec7404cf70d1aa8f5f9816d73242c236781f85e5b1c43f4",
+  "seed": "Pemg9urKf3pJuWQc"
+},{
+  "user": "Tranquill",
+  "hash": "c2528185d02d80fb5bbb05018e4fd102a5c3f0d6f866cc1ebf3cc7842b7f82ad",
+  "seed": "zN2js5MZZaeVrkPt"
+},{
+  "user": "Salazzle",
+  "hash": "4f13344dd5481ecbb67b718eacb06cdb6d52eac1206ce907baaa48f53c610688",
+  "seed": "tKP1YREBsOC6716I"
+},{
+  "user": "Nidoran♀",
+  "hash": "d231e045ea24ffaf0d03bbdc6b0a95f0f7b723b95b9642b954eb613bce859853",
+  "seed": "wz5KZBfks3DovzMv"
+},{
+  "user": "Omanyte",
+  "hash": "82e44ef9b5f5eb20bbcd841d0d187302f8fd242b76ed3c0d46c1695f2a6f35a8",
+  "seed": "OXqQWkM0nG3wvcb1"
+},{
+  "user": "Swadloon",
+  "hash": "63c98f3d6b993558b698d095f5541b91666b1a700a41cd14250edb38d12efb3f",
+  "seed": "1CP4cgiBgQ2WWpvB"
+},{
+  "user": "Arcanine",
+  "hash": "caf9bb2bd3a68c6a3bfaf89dd5ba7c3de355b1df768f2db1187e689b60d91f3d",
+  "seed": "iFVslV5m5pbEY0xC"
+},{
+  "user": "Pangoro",
+  "hash": "61ad7f7f153abf8bb3c0b031042579009783ccf15fccb0dc2c46e9d6affee72f",
+  "seed": "8zBEsnLmQrlQCiYl"
+},{
+  "user": "Frogadier",
+  "hash": "77e79896f407e223c62b1cc1d430ee0c9e1be292ed8ecb5a6ecb18fb3873a1ef",
+  "seed": "RhCrG11KlqkoWDaF"
+},{
+  "user": "Cosmog",
+  "hash": "18ac5f7a624cb70270d7d9577524c786e6e9ed1e57a03ba1f8294d414355b5bc",
+  "seed": "YLvAsYoBd02dhE09"
+},{
+  "user": "Ekans",
+  "hash": "e7129e181712ac957413bfac982bbaa6cfe200c808abcd831fdde392da0610bb",
+  "seed": "ajDKGwEDhkzVZt75"
+},{
+  "user": "Zigzagoon",
+  "hash": "f94e4e662f737247faa4b8657ea9115ff03ac917c09c2a50f7ddf1386d9b363b",
+  "seed": "0kqO28CIYafzapEM"
+},{
+  "user": "Trubbish",
+  "hash": "8e8c5dfd4c42946a42e42efbded74be5a089e542b7b4f31c7a665a34b81beb66",
+  "seed": "XJwV2PQtzhfhMfMy"
+},{
+  "user": "Houndoom",
+  "hash": "a114011e403a97b8b2af07fbb6db4203ff6e3aa907885289d713bd088300f04b",
+  "seed": "mpquA6CAUmLMky70"
+},{
+  "user": "Sentret",
+  "hash": "f7deaee91cb4eb52ca45b856bc70ce2c65bb84296e882c68ea208023ae820158",
+  "seed": "qkJqlG8dwAcqFrUL"
+},{
+  "user": "Drapion",
+  "hash": "d3d8ca6acd1cbda46c3e705ddf632fb4e418d4fd7bad49d52b054ca4c57b198f",
+  "seed": "b778amdivZ0R7k2x"
+},{
+  "user": "Azumarill",
+  "hash": "90f22dac9616fe9daabc735ab67234b9e1769cad18337567ae69b717c7b26f7b",
+  "seed": "4ivzc8OCQzxN0EOZ"
+},{
+  "user": "Mudbray",
+  "hash": "f6b15427051159c62966d1218edc9f1fcca7666958e6ecd507f0230cbd179cca",
+  "seed": "CTDE1IzJ4KlSBUYm"
+},{
+  "user": "Goodra",
+  "hash": "3ecb8a79ef8ef4fc5cef783df1c4c80c7918108644e685091f3490381a155c91",
+  "seed": "o9Kljq7Tkr398WHC"
+},{
+  "user": "Gyarados",
+  "hash": "a761427707e253d8b62533f5cea258756f9762011e8f57089a69ee0d24bfbb81",
+  "seed": "Jf2flg4VIjw0QPVS"
+},{
+  "user": "Seaking",
+  "hash": "eb303e54e503477f214d71c6b7f2a878329d800682abc012cf14e6026effe847",
+  "seed": "5eNiUx2trKUfLSdK"
+},{
+  "user": "Hitmontop",
+  "hash": "53f0786bc496a248042b536825623cc68bf6e1a75ffc886cfc9a221a57fcf3fe",
+  "seed": "cKZMS0l9LX289M0R"
+},{
+  "user": "Ditto",
+  "hash": "b346121467b8cb55094c024ca4ef177ba0fe3f7951617ab1dd0f0babcc3956d1",
+  "seed": "9XfwOXCaIuWZeTDD"
+},{
+  "user": "Thundurus",
+  "hash": "dde7dc1c23826834a51a42eb37599a78c8c78cdc1b31b61dc22cd9bb4977bc0a",
+  "seed": "cUv6a9vTAQhyvzE1"
+},{
+  "user": "Cascoon",
+  "hash": "313206f651f91f56d3f305d8dd7b8b1f202d0520be6d40c76330e1090ef32d85",
+  "seed": "wMxPFLcwP85pkePb"
+},{
+  "user": "Kricketune",
+  "hash": "32870b5768e8c685a7a2d25268dc56afdff15a5413a7dcfc2dfca08a125563a2",
+  "seed": "b4Lk23VlgyIE2ooR"
+},{
+  "user": "Nidorina",
+  "hash": "e220996795ca97aad69cf44f6a0131c7885f74abc8eeb6f8f8c65a66ae24b6a6",
+  "seed": "QB5HhziMQ5VmQdsA"
+},{
+  "user": "Banette",
+  "hash": "60ce7e3b5e43f4ddec50e3c038cd607267dfdbcb903e8feba1b29268ed5192e9",
+  "seed": "cj3vxJguY2uumv6e"
+},{
+  "user": "Vikavolt",
+  "hash": "58704f52a99a3370071c2264826fc6ee2b7da5ecbdc5bd8d1eb8b9a561263ee3",
+  "seed": "RHV2mZVXDb7kylIv"
+},{
+  "user": "Sealeo",
+  "hash": "4962f0a8fc6f9707e14fc2b4a7832b5e0ec28bd8caa187aa9008ea27b551f32d",
+  "seed": "xhmpeQxQtcV4cHHL"
+},{
+  "user": "Cloyster",
+  "hash": "770435163ab8e9f54bfee80ae435c31194aff25948ec9da9a2a85f8feff4aaa0",
+  "seed": "mg3MyKaqKjmTC92O"
+},{
+  "user": "Klefki",
+  "hash": "c2c3397c9bd7f0f959ebdd294cf5e19c98461930334bb108000bf25b95e2b750",
+  "seed": "C4hYzkrUpw6FrZhP"
+},{
+  "user": "Chimecho",
+  "hash": "40d6fac8539a46ac4d367eb3ca657e38ce26d7c46ec29b46bf99fc5fc7fbdb2a",
+  "seed": "azRd2xmFveulBBqL"
+},{
+  "user": "Hippowdon",
+  "hash": "cfcb25b831f8a0e1514c2964e7f258cce5b5c74845f9960e3d45cf44e879d7a6",
+  "seed": "ScOTR35XAmVhQ63c"
+},{
+  "user": "Nidorino",
+  "hash": "74b002809e1a121356256112a0e4bcbf8ab40cb997998db89d6c6b78615a9943",
+  "seed": "0EqeBEHHGZMhzcGE"
+},{
+  "user": "Skitty",
+  "hash": "abb3242f836a7b7bd3c6409b4b7b01cbeb80a8799dc6a1fe2258f6b0ad8867a4",
+  "seed": "MVk4NGZKkAT0J8BE"
+},{
+  "user": "Spearow",
+  "hash": "b53890be6b15c8fd9470733984a64168fc9d1f1811902459d1704da882aff41f",
+  "seed": "fTnKw5NfiLAu9klZ"
+},{
+  "user": "Cobalion",
+  "hash": "5bed8e42cbe9a4315fcf5e09f50c7fdd4289443038099dca03efe1163827391b",
+  "seed": "XrEquzyMWLQJTo45"
+},{
+  "user": "Charizard",
+  "hash": "e66790f9ada8a9b3d65636405e224fa0cbe34b585961d29129ff747041465311",
+  "seed": "wlyHgWqyUcq6SPPo"
+},{
+  "user": "Slaking",
+  "hash": "8dacc183ddcc10f73bd1d43625aa856eb2757d29415ccb2eb974a884dc84dc52",
+  "seed": "nTMNUoDUIj7MFB8q"
+},{
+  "user": "Klang",
+  "hash": "e58350f8f35d06da07ad872b79e5c8d7e1e326cb6791ba33327f003eec95a452",
+  "seed": "Yman9O5v4GuVwK1N"
+},{
+  "user": "Giratina",
+  "hash": "105038b1c68db6e8139c08d57ece0d2b0c0e0dfdf4d0c912a29a451f3ce00c31",
+  "seed": "wHrPNbw15063jl4c"
+},{
+  "user": "Weepinbell",
+  "hash": "96dbc65bba6dfb91252a7f5a4b446d09633ab8045339ecbf8fe4a6434269599d",
+  "seed": "IpFwTn0OySjlsrMR"
+},{
+  "user": "Chansey",
+  "hash": "3fcafa1bfc630847a6cece78ffa6fc69603ef547fe78a4ad86f9bed18e368c3a",
+  "seed": "iwC1FoYsaXz9zmMu"
+},{
+  "user": "Shelgon",
+  "hash": "6ef4039fe69c407fb319b71625f80cbbddc6ded3bc841a273626c161c7545f05",
+  "seed": "vX0OUVa4slRD53U6"
+},{
+  "user": "Wishiwashi",
+  "hash": "c067fb5433d2103585906580efc3a13a528d36dfb6185be5561dbe700c758470",
+  "seed": "meGnBjwlimRMJJbN"
+},{
+  "user": "Ninetales",
+  "hash": "dd44b53d0c735da93186d90fb38b4e665aa9d88274865be5f86435bcf929cc3f",
+  "seed": "Z3aMSAcD7sZqTGVu"
+},{
+  "user": "Gible",
+  "hash": "1c8aeaa7b9beaf30ba36cbdc06bd12961bd94c0367f2117957efb6e736a31c82",
+  "seed": "Ei2kqEa1sJWLIhm2"
+},{
+  "user": "Mewtwo",
+  "hash": "0ee7ae98887aa21bd9e483f70e3d1d2690beee6be9c279fefde53f3d0472bd33",
+  "seed": "ixG4pkBVPghhfQbg"
+},{
+  "user": "Hakamo-o",
+  "hash": "57b80d5fd4a87f3ffc99234da5d7c09133c4b81ccf68437e22c71faf2be43d09",
+  "seed": "sSCbJrjBlxlK5ID4"
+},{
+  "user": "Charjabug",
+  "hash": "605f02499c489d09dcaf0ec066e4328c8988bd49fed7cd5facf1937a1c73f45d",
+  "seed": "0b9IEcNWUWj3YSi4"
+},{
+  "user": "Bonsly",
+  "hash": "39608c31791313b4432978c3794bdf6991f6876297ac2668781a41f058c73d7d",
+  "seed": "Atq7CL3Z0JghJryP"
+},{
+  "user": "Foongus",
+  "hash": "e1a607d33263d8d8e3ea16648a3e5339a071ede960e513dabe986682ec999476",
+  "seed": "eUJrSfQTTzGC09ic"
+},{
+  "user": "Primeape",
+  "hash": "40a5f8b9e2b58a5b20902c3ac1f24c698399c6c9009ff203d8e7c6519925f9eb",
+  "seed": "xemSACaM7hnTyiOI"
+},{
+  "user": "Armaldo",
+  "hash": "b0938e31472f3f9acfccca3c92c07510da2fba4039ff2fd004f36cd476bcd408",
+  "seed": "dRGuUVHySZnzyxH5"
+},{
+  "user": "Budew",
+  "hash": "628ed8136513c69d4efa8d80644d5cb91ec11d59adb68da479dc911a24e725bc",
+  "seed": "qK6hrJSwlwctpWpQ"
+},{
+  "user": "Phione",
+  "hash": "3fd9318f36a2fc7557e02299156fa61b631bdcdb5fd954130b91d38b4d421c05",
+  "seed": "YlgRYOoWUMitlCZh"
+},{
+  "user": "Magneton",
+  "hash": "8176e8cdeb2193f5d1062cee982141b60bf5d32b24878d5594db59a02f83e5d6",
+  "seed": "nEbUOsXOxaswcATO"
+},{
+  "user": "Mareep",
+  "hash": "e80c3f421e69f57c718873856f4555e797a516010812ef2b6f08275fa7b09217",
+  "seed": "Ecy7ucohflcn9RjP"
+},{
+  "user": "Crabominable",
+  "hash": "b6de8f6c616c3cbe7ca0e973b2937b29f208fb168ad07cb248f72ac103014f2c",
+  "seed": "U2cgeGp7dQzJriaW"
+},{
+  "user": "Accelgor",
+  "hash": "e46934043cb6396081c8cdb2ba46523dc2cee762bad8aa863bb89f6f535bce4c",
+  "seed": "6u0jNvMVwaoXxYVO"
+},{
+  "user": "Torkoal",
+  "hash": "407bc5288b85037afa8510bd240258a1cca89c67397d745ccb70499f05b074c8",
+  "seed": "l5mzv5RTRLyltZgs"
+},{
+  "user": "Bounsweet",
+  "hash": "d216250c70beb7741449379c9b1256d6c2ade5192475eba8a662a66316703aeb",
+  "seed": "pwWNiW75MOj2PlfT"
+},{
+  "user": "Blastoise",
+  "hash": "26592342addb3815989bfba5580c8cb2a9c3d19d012c52edc61f10cc61683e49",
+  "seed": "oQagRAWHSZ9JOS70"
+},{
+  "user": "Whiscash",
+  "hash": "d0cff219b95279edb31d1961ae11a43c42d9228351507efdb520fea1fba6357f",
+  "seed": "MyzXqgfjyxxK5fuP"
+},{
+  "user": "Cherubi",
+  "hash": "cadbdcc6729b43ddda364ad617543a998278959cb50db999ef24047627fcbd7c",
+  "seed": "jdQNDb6mCVgXeU4y"
+},{
+  "user": "Weavile",
+  "hash": "be84ac253760762ca7d49552d1b95f897dab1fcd4d686e40e47ff93498e2b30e",
+  "seed": "DgjRAS4BdysRLzgW"
+},{
+  "user": "Meowth",
+  "hash": "d53ca22717257654b43cd19c9ed0bf30173f8d7074cb9db4bdc5351e9ac3c8f9",
+  "seed": "UEv1cWmvNTcWTK44"
+},{
+  "user": "Staryu",
+  "hash": "2ba8c39880186dd366a85d9f9cef16f878aa1fd5abc4bc7a0429d055069c12e6",
+  "seed": "roulcQcK5R6hrFsN"
+},{
+  "user": "Moltres",
+  "hash": "fdaec7c74ac6f74f27058a0a5de092764d5a53fc406e403481ffeeabd9b41eaf",
+  "seed": "BTwfCIa4fLJnt9ly"
+},{
+  "user": "Braviary",
+  "hash": "13ce54f5912a903112ca02d3aa38ec7157fd55e503ccd9c1a97618110a3d36f5",
+  "seed": "BOhZiC6SO67HzSjL"
+},{
+  "user": "Floatzel",
+  "hash": "2fd093847731d6c13f27cac10dc8527a7133ef4233fee7067a17f9860f01e445",
+  "seed": "xNVhgtjK1PmLl3lJ"
+},{
+  "user": "Qwilfish",
+  "hash": "25c46cbae985d3f83710150c4a3d536ddff9aa40754e2abcd9aa469608be9a14",
+  "seed": "DPhQmKiE1XRmso1p"
+},{
+  "user": "Cleffa",
+  "hash": "761aa3b85351effab60ef3fe07cf0ff7de386207cbf7c69fd44f2c41e7603fb6",
+  "seed": "jKNwbZxaAAiZY5ko"
+},{
+  "user": "Simisage",
+  "hash": "62d63ab1054ab4f0246925ab4bf9a0bf1cfe6387d0bdde6e3e7113828c590c3d",
+  "seed": "JS6v3tWtUelRXtf0"
+},{
+  "user": "Castform",
+  "hash": "920f405f25912e3b6bf7019b4fcedd13881eb768f6812f0ee44b854e37b0ff9c",
+  "seed": "UBePmiNjJ62jUsOU"
+},{
+  "user": "Marill",
+  "hash": "452e557bf23f229907d3e7d0a810651a61a1b243fca18c6b9096ca1a7c2bb1b7",
+  "seed": "y3KkGq0wJCToP7Ih"
+},{
+  "user": "Tyrunt",
+  "hash": "0eccf958b70be27352727ab2b0d1e4091f312cac4973f2ec151579aefca06242",
+  "seed": "czAKKQ4xOlrDR1Yy"
+},{
+  "user": "Lilligant",
+  "hash": "20349665e3e518fa69bce9fcdd9e929013df424787cfe0fb9c4f124cb3c830f2",
+  "seed": "VIubzjL3b2wXUXom"
+},{
+  "user": "Rotom",
+  "hash": "dd540de998bd2d2fee45244de260e7119ee25e98598e06d533751969ef33d3ff",
+  "seed": "OmLpkcWOVOEKWbfo"
+},{
+  "user": "Panpour",
+  "hash": "a523f30b0b84d74f54f2f0ca4751abfc7e5ce38428e1bed99940267bb0a6857a",
+  "seed": "f6mlIn6FsGPLiYOb"
+},{
+  "user": "Meowstic",
+  "hash": "6bf5e911cebc6ce5ae1c0ecdd01ec0fdb83abc03e90118fd99292dc787c3038e",
+  "seed": "NdeETQqBoBwtfcZJ"
+},{
+  "user": "Igglybuff",
+  "hash": "4e7b86d660c0a4b063d676a3f8014a24dff2c363a179cc61838c09c841b07e73",
+  "seed": "XeWwzTqtBYWGn7Ye"
+},{
+  "user": "Bayleef",
+  "hash": "7ccf05bf2bfdceb39483f0f7c4c1a1561666a10744b1e71880ebd5db548bf39c",
+  "seed": "6nBt5bo3JxzuPGOE"
+},{
+  "user": "Clefairy",
+  "hash": "3b10829cbe99979ad68df60fbd3e7c7293d3dada221cb2e32fde0d3f5f9a0607",
+  "seed": "21GV806mh8nv3sRP"
+},{
+  "user": "Mismagius",
+  "hash": "28006a9ee013be97812ecf502eaf6ad6d51e38dcd8ab8039cea6a51c18a3675e",
+  "seed": "5Ai7ON4bOVfl1y1h"
+},{
+  "user": "Oddish",
+  "hash": "d69e2bb9f57c85edbb3544640498feb1b5648211930b4f61aaaf81c6784203bb",
+  "seed": "fcVMxUcYIPj4nmxg"
+},{
+  "user": "Tapu",
+  "hash": "26b75cea24d19691a16f198afa671d620e6eea5f0d66bbf21847facdd513785c",
+  "seed": "H3ieO2be0TL5NtKL"
+},{
+  "user": "Blissey",
+  "hash": "da30fc78526dfbfa3d2534e7b51e8b006ce37832127b98be3f9d96585092c531",
+  "seed": "3HFHRjNjJuLlfSpM"
+},{
+  "user": "Golisopod",
+  "hash": "cbbf77a1b9fbc3541027473b5281eca92166b6acf9fe8d1c9d7d696683c09e28",
+  "seed": "2Z872A17hzXxRQlO"
+},{
+  "user": "Tentacruel",
+  "hash": "ee8d8d8dbf16fa72c50991e998fcba0bcc87b815ffd0910f49823d6106aca846",
+  "seed": "5ILLMxR9TCroKz6I"
+},{
+  "user": "Empoleon",
+  "hash": "f5f5c07326db31799b0c6ed69e3aba4c9db4a3fe913df8f3c90b22a0efc05621",
+  "seed": "BXdHTRFCHk1Qm9DE"
+},{
+  "user": "Electivire",
+  "hash": "c1425ef29689543978c2e05beee1f632530799bb70dab2589fdb3b74c613be08",
+  "seed": "Fa6LSALP7jPdjqBs"
+},{
+  "user": "Milotic",
+  "hash": "6d329ebf9d793f72b600ce78bdfcf65ecea8f28bca450418d3dcf4f8e5b76c41",
+  "seed": "sODaGOVqXM5NSIaA"
+},{
+  "user": "Zapdos",
+  "hash": "7578bd739bfc70a7c2472a4eb72cfbbe0b971b58c6628fbdbfb1a216c97c1789",
+  "seed": "vM2ESEHXx1c7ffxN"
+},{
+  "user": "Elgyem",
+  "hash": "5bdc4cd77756ee1137c43e6f628ca7597bbaffff025a008ab82065a82b941a39",
+  "seed": "n0LQaC3pyy80rdof"
+},{
+  "user": "Luxray",
+  "hash": "2104759f9d14a944332755cdddc20f9017be55b848e9edea1ebd7ae41b16318f",
+  "seed": "3S95QIuO8baW1pxT"
+},{
+  "user": "Haunter",
+  "hash": "5a667e8c7c2750b5249bab5cfa9768ce1d2b8089b625e3d42df315edbc618d13",
+  "seed": "8yoX10C8CTlXulMh"
+},{
+  "user": "Shuppet",
+  "hash": "fcc3798ec75c803067f4e59e31473c05aa3f8705dbb60beb91e7f0e845ef6845",
+  "seed": "zmnOKiADgARIkiiv"
+},{
+  "user": "Miltank",
+  "hash": "54f6e61e74f49655e0bfdc5ddb9da7393aef9b093987776a1ab8db9e5677b573",
+  "seed": "scWI2x9HTUW6lDdI"
+},{
+  "user": "Dialga",
+  "hash": "a9e7d0d404eed6a2e59476fdd25fd6f49a5cd43dc6b805cb0685b3e1b6fcc5ea",
+  "seed": "xxAox3vBZ8AfKB33"
+},{
+  "user": "Blacephalon",
+  "hash": "81ddd56b86c7d1c4124853463596cd542491708dcc530d8b09f1a2af17622672",
+  "seed": "7XImQHwPyokhfAvo"
+},{
+  "user": "Venusaur",
+  "hash": "2a389f6b274b40b9313bc703c7ab71488679e5168d11d8e2765a12f51c883a28",
+  "seed": "xkvzsB7FLnngCptQ"
+},{
+  "user": "Blitzle",
+  "hash": "40875c3ee886cd7e0d8216105cb4ef70c6e9ab8c5bf17e6e3ee35375388e4787",
+  "seed": "9pCtnJuGjwlryXOC"
+},{
+  "user": "Shinx",
+  "hash": "912839072ed8477a2cda65316aca124a0aad716c3011832deaf5a4ee10929871",
+  "seed": "8rfD2rbDlwNb59oc"
+},{
+  "user": "Venonat",
+  "hash": "21917cfd31eb6987ee5ef78fd9fcd820abd61fcd5315bfc93224432a289b568e",
+  "seed": "tJKTRwm97n8IGyy2"
+},{
+  "user": "Heatmor",
+  "hash": "8a91e242d6f54063b6e5f8d8409ee4859be48fd5e7392911e9fa45f027a260d5",
+  "seed": "QTWNFQY9NTHR5aQg"
+},{
+  "user": "Pumpkaboo",
+  "hash": "a5dd5d539d38604e7474197fe3181b4abddf5fcc54efbec9d9f5de1db2b07a40",
+  "seed": "QR3urXCdxProY4nu"
+},{
+  "user": "Dewgong",
+  "hash": "1fd156812021e2d0b2784b99037af6690a6659720f3b0fb2403b428618d0063e",
+  "seed": "771EH23t5Cp5Ftz3"
+},{
+  "user": "Tauros",
+  "hash": "fc54a6ddc50b2a065f78afef85cd214c4f112eb40d0d602a4fc78b9668757bea",
+  "seed": "xdLzoKQ8cQTqidPL"
+},{
+  "user": "Quagsire",
+  "hash": "300f9cf32562be9cc68b3eb800b82ca0271c680f5be940673c3c1ffc4a09676b",
+  "seed": "mEo3ULAhcktfM2nY"
+},{
+  "user": "Luvdisc",
+  "hash": "1047052a8a81dd9bf61c85efbe0808a227759435cf733b0479ed7721606f1fa2",
+  "seed": "cJk8LMlmEHGToEaQ"
+},{
+  "user": "Skarmory",
+  "hash": "b77ffce87bc160b2e3340240dae1fed15ac79d65c2327d48f79671a254153f11",
+  "seed": "mizE92v3zqtzUPrZ"
+},{
+  "user": "Eelektrik",
+  "hash": "06d1e8de5c256560f1f442ed73d37f0e2a94415178f0ea6e3839746a12d2f3d8",
+  "seed": "DADoDIhWV498CXg9"
+},{
+  "user": "Walrein",
+  "hash": "f0eb7082b7fd118988e965270a7cf39b3a3355a1743bfb4a0cdd46fa7a592842",
+  "seed": "dm6ghmQAFxPQuArr"
+},{
+  "user": "Swablu",
+  "hash": "9fbdbf8fd8704694a8baf2d84aa657c02a50f256fa30ef24f4e88bc7a10d87fa",
+  "seed": "tEKy4HnyHJ3FNG1o"
+},{
+  "user": "Dedenne",
+  "hash": "fbde3960a3f062a0ff1355d70cf184f2360d9ec0d7d4ee491151756bc8acafe5",
+  "seed": "PAhOL43DIiiA6uHQ"
+},{
+  "user": "Breloom",
+  "hash": "3aa7472370fa8bba7293950513490c98cc2a09d0c8cfe1bc2569de0f4c7e7253",
+  "seed": "slzrXEXjRVA1CLQU"
+},{
+  "user": "Scatterbug",
+  "hash": "89e5cc84b0f6aedc0f2cb9d80f8b5b5ecc32b1a6f65a5d3d96c9e08b8267b330",
+  "seed": "0rdJIMS7hSlbxvqG"
+},{
+  "user": "Golett",
+  "hash": "667a5f033ddd6714ac32953d451f2ffe6b38bd98b118983a6e08a433053714a7",
+  "seed": "f7TwbCTObg78FZ31"
+},{
+  "user": "Sandslash",
+  "hash": "57332a1d588a1a1a7046a99f485bad4e2b7ec749cdb37fb4a27f65f26672007b",
+  "seed": "DL3AzymlSstRh6sT"
+},{
+  "user": "Chandelure",
+  "hash": "86f5e46dea597fca56473e308f453abf07caeb96d9404c5fd35ddbefb84ddb1c",
+  "seed": "3uMUbXwjWqZMoi9K"
+},{
+  "user": "Fletchling",
+  "hash": "bfef0de07a21b4aea86572dd8de23d8ee65a9fc98d1760ad980b8fb8f82595b7",
+  "seed": "QYVFhCbTUhSyMs5P"
+},{
+  "user": "Beedrill",
+  "hash": "439fe307526bfb1990bf2a754216db39574e791c8e42c1568ed793cfeabdb646",
+  "seed": "XFEYcm1VrCzbiatD"
+},{
+  "user": "Doublade",
+  "hash": "380b8ef4812eceb2307aa9ca997775985841071cd7e3f11f56f94a55f10f25d1",
+  "seed": "HC7EUW1fuazIXjLi"
+},{
+  "user": "Flabébé",
+  "hash": "42019ca7e9dca871dc70c6ee1204ea8418367895bcf6ba555d1b7e6aa417addc",
+  "seed": "c7ALCNxVgpGm46oM"
+},{
+  "user": "Sunkern",
+  "hash": "b0d8761b6ddc5ea1c2067fa70a88ea49a2b289078672d4c79842f18739756620",
+  "seed": "jh5gudmGQFhCQfsX"
+},{
+  "user": "Wurmple",
+  "hash": "6addf8b1a5ffa49c1a7763f2db7dfe3595b940471a1db66eacd9a9fa4e23ea65",
+  "seed": "gwnqerAbNeeeATXz"
+},{
+  "user": "Ivysaur",
+  "hash": "bcca07d95ad6f869867abf3860e4736a60edc7d3ff14581419e8335227ef4a25",
+  "seed": "xe1VqLlRWZKkmjvM"
+},{
+  "user": "Melmetal",
+  "hash": "d87307eca009e7db1fb219d9107b75ac75880efb8d9b25d9b32aa0eaf343c3c7",
+  "seed": "ojShzCnZpwvl4d2m"
+},{
+  "user": "Lunatone",
+  "hash": "eef22de18274c70dd47b143889db0760216018eea23dc63db90f3e02a35a3c85",
+  "seed": "967GWv3ffuVCj7IC"
+},{
+  "user": "Spewpa",
+  "hash": "dca5d7e71016860337de7a6b3867435f061279d257c68082952effa9fe87dcdf",
+  "seed": "0TL81MkGWEmrDTUW"
+},{
+  "user": "Hoppip",
+  "hash": "e686cce147f26a386d5fed0f214f96fbcb76d4242550341fc123005b4c8c99fb",
+  "seed": "SsWXdccmHBVem6HQ"
+},{
+  "user": "Reshiram",
+  "hash": "921068f977a199f7d349a7c80048d90caa082b75df5b4000f66368aec2bc2659",
+  "seed": "wvyL0j0VGy29kXYZ"
+},{
+  "user": "Hitmonchan",
+  "hash": "e0172761e68c810be5cf64f417e9e79cc469ffad4f5b2e7cb4affed412f94310",
+  "seed": "B6VJQTajZyDCwbGT"
+},{
+  "user": "Totodile",
+  "hash": "1d46241262925cc0705eb404b4e4196fd8753fc2ff52a031526ed195d39e2d71",
+  "seed": "ClOPqQDtYE2ivwI2"
+},{
+  "user": "Litten",
+  "hash": "fcf59b82cee1e9799913b75b698055ae8896627da33aa071d884dbf8ecf32fe0",
+  "seed": "ro2jNQRCd5fBdtE3"
+},{
+  "user": "Oranguru",
+  "hash": "9d9533eb9220f42a6fb2a7a53896f1eabf60c27eb8e32db2dffc3c63d97a55fc",
+  "seed": "qVAwUurt8SdiECdp"
+},{
+  "user": "Regirock",
+  "hash": "99cc55339b2742a3c37902261d1b476ed22724270adab2b2e28b77905dc8e76c",
+  "seed": "vkuV2uLJm5GEi2KD"
+},{
+  "user": "Gallade",
+  "hash": "ce19399645086d1014899e14afc45dcd95d635a6bab6cfbffadd9ab7d77be30a",
+  "seed": "huG5YRQAeSyYw7QB"
+},{
+  "user": "Camerupt",
+  "hash": "a3d4ed3eb36b8db06cee0ed47340ed9fefd02da111d491da88c16a992691d229",
+  "seed": "9WNqA9wqTm7IlAnF"
+},{
+  "user": "Chimchar",
+  "hash": "2847c77c1ebd02df74b11a0ffbe4f6d2c8072e244a37e8e826ea420b60e93d8b",
+  "seed": "Mdy6tlD439cVTPM8"
+},{
+  "user": "Voltorb",
+  "hash": "1015bc83f9b73916ac61fdf20c96b6abe9a942aa0c8eb7630b5c9107246fa1f8",
+  "seed": "SLEdJbSyk7dmCkr0"
+},{
+  "user": "Jumpluff",
+  "hash": "e40ca0b397b71e2f3908a403b5c914c4c572a92f63b2c54fb37e2dd1cd77916e",
+  "seed": "3YyiEQSFMtpNj9fd"
+},{
+  "user": "Porygon",
+  "hash": "87295d2e4c46cfd3a88ca13c3b6db098cde2da9869851d882998d2910d7b0822",
+  "seed": "QQHhPbbJcr8HDLjZ"
+},{
+  "user": "Geodude",
+  "hash": "1ea3e458e5b0c857679aa2d6040512785ec87ffded2b6ace2f3ea15c710ca14a",
+  "seed": "a7IL5eShHiCr3mD6"
+},{
+  "user": "Turtwig",
+  "hash": "fb74ad01012ab237947cee17d9017f40c1f0861eeceac3767b9ba7bdadc886c7",
+  "seed": "Ys7yWvSfP3IUDlNA"
+},{
+  "user": "Simipour",
+  "hash": "92a9d1ecb50afe1982631ffbce2b8bf368d69a93c029adc77ac46eceea081488",
+  "seed": "EJlYIdp9BRf8FOac"
+},{
+  "user": "Charmander",
+  "hash": "ef8812fed86342254049471498a7a1ca70f4de3d7f2fd7eb04a8833dc71529ac",
+  "seed": "51wkio8gP1RfiK39"
+},{
+  "user": "Shellder",
+  "hash": "72a5164a935b0697390bc796b324d7cec82643b735d7d39af1440d16c9433a8b",
+  "seed": "12bh4up2XzkPidAf"
+},{
+  "user": "Volbeat",
+  "hash": "de9c9ca46ce77c49cd54bbd49d8e9195909f12da16e943d01d30aa4ca9689f5f",
+  "seed": "CAo18BnqRro2ICNU"
+},{
+  "user": "Talonflame",
+  "hash": "311ae9a353f8270ba7352d5cba33968b35a624b12e1f47f57acaf915f412d8c9",
+  "seed": "lyaK5uOyXG5UiFCy"
+},{
+  "user": "Numel",
+  "hash": "c97f1b08ca260cc7ac88a0e29a614a82726bfe2c59ad29be811c74d7d8984d3c",
+  "seed": "b0KXFemjf6ECdq09"
+},{
+  "user": "Stunfisk",
+  "hash": "fd561afa9e91118900fd5f4ddf4c57ff5174108d9cd347d7a7a79525e139ba33",
+  "seed": "QF2FXRgi0V4CZ4tY"
+},{
+  "user": "Honedge",
+  "hash": "cdfc564a03bd2435e77abf08242000b899ccd270006c5cd7d96f2c9f4c35b65e",
+  "seed": "SM1aRLhmwys7Cp5V"
+},{
+  "user": "Regigigas",
+  "hash": "39f987e800b3bc4a0127c9109d812dd5d27521eabc76c63db7693c1ffa2be041",
+  "seed": "TZY0RF51iV9YFiuN"
+},{
+  "user": "Abomasnow",
+  "hash": "e274266c360baf86ab55298d5d5df02955f9d977103fbb615be31d8374b170c9",
+  "seed": "BrJLiubzexZf3au9"
+},{
+  "user": "Sawsbuck",
+  "hash": "5d75c57f00b932691864ec7bc1c606eda4a1c9322d8347a4706c1f99f69fa59e",
+  "seed": "cezVvrOw0S2wIHXh"
+},{
+  "user": "Purrloin",
+  "hash": "08dee1263fb3e169067cf86205c34c63f0b1d0b34c03f73f4815adc2214e6461",
+  "seed": "bmOue6tacZxe7Qlc"
+},{
+  "user": "Pansage",
+  "hash": "b9be5ea929a64607dbd11643acd6404e0ece394776f6486f9b112bf1f254e846",
+  "seed": "VW1HJEHb2L9Lx2ra"
+},{
+  "user": "Glaceon",
+  "hash": "4c6dc3f84b65dbf108e36c053d1892e3639f8c7707247a5b84029c1958e8409c",
+  "seed": "QKYUCdkRks95WMXC"
+},{
+  "user": "Sandile",
+  "hash": "1c642186a19dc0c211b2133cbbf73cafae993047930fc86d6e3c8a3651e396b9",
+  "seed": "qNjwWVryV2WfHvd8"
+},{
+  "user": "Venomoth",
+  "hash": "719a85fa6a54cf5df582043ebbfbc6dd10ab176c13b5038da89bceb66cc2b364",
+  "seed": "AmZrJM80EepCglqW"
+},{
+  "user": "Spheal",
+  "hash": "83b9e63ff8a7f109fc926afebcc1b8eb92694c071c4a56739773c1901d8fca7c",
+  "seed": "Vu0lL3HQXOYyvH8G"
+},{
+  "user": "Phantump",
+  "hash": "2ba043252ed3429a48401e6da927e679e97a5e136291d52b7e012bb9b4897f99",
+  "seed": "voCew8U7dITYAom2"
+},{
+  "user": "Pidgeotto",
+  "hash": "b29e6c5b66b5e81d5fd2234f489eaa8e7df54540176bc7b6bcfa60b83ea86c94",
+  "seed": "7sT5UxwUKLl0VDlF"
+},{
+  "user": "Purugly",
+  "hash": "c5ff5939f56081498235e615080abb96d302cc45489a4d055a66535a3f7342c6",
+  "seed": "qG3lXeURWaGtXtrs"
+},{
+  "user": "Silvally",
+  "hash": "d8058db79f5416079effe251a35521f12d908e381939ab508ca1807702b63657",
+  "seed": "bRcrMvz7yWOAkPup"
+},{
+  "user": "Jolteon",
+  "hash": "069fab0df32a367906eb3a14e14def14f446765c5e3dd16fac437adaabee2f78",
+  "seed": "GOhQtOKcl04uUXuv"
+},{
+  "user": "Shellos",
+  "hash": "59f7217a593779db413514541c1bbf26305069e4da5c381a8ca7d5a417352da5",
+  "seed": "Kkdk815kNy4HtNdM"
+},{
+  "user": "Snover",
+  "hash": "19b44cb3dcc889175d4a419304c7ab90ca922dedf49a85a624d306970ee16180",
+  "seed": "tkQx4Ov0KW8MIuZ0"
+},{
+  "user": "Amoonguss",
+  "hash": "c3e8bc6ff04ad3ccbd67d77f46fa0d6153286c675fca1ad36d2293c58842b045",
+  "seed": "j8KJwfoospZUgpUn"
+},{
+  "user": "Clamperl",
+  "hash": "11d0cb8e1d09b8824bb5d3b84aa2c3900e603cc69329acfe6e87bad23c4e08e4",
+  "seed": "tsmK8wxMZuLRkoej"
+},{
+  "user": "Abra",
+  "hash": "65c13c00cc0e573f667c00c74472a542982837fea3c5ca006fe6cc8df51da203",
+  "seed": "4fPS2YJJCTGhZj7m"
+},{
+  "user": "Snorunt",
+  "hash": "54ecc0b7893f52e4983a2d96654df5b22869b1e4fc4025c4c0cd58c8395888ac",
+  "seed": "XU28q81LyX3f2cyt"
+},{
+  "user": "Diancie",
+  "hash": "f471eff7803272e1cf539fba2ce813518bec3cf74acf714f58b8da775b1fa479",
+  "seed": "En6nvTITqkbKPWAA"
+},{
+  "user": "Granbull",
+  "hash": "b4814b86c40cc2f1b123c7625c2fae7eeb2826114b26f143f6e36b1ae90d52f6",
+  "seed": "ixUhLTO5wznaVCRl"
+},{
+  "user": "Swoobat",
+  "hash": "988fb5f2e9cccd8a88b8aa542ab024c910e5c7b5613e7a5e4a8dc54a3a733995",
+  "seed": "pxUap2Xm9DoJVRRf"
+},{
+  "user": "Comfey",
+  "hash": "37d56aabc917faca7e4f2d0136410f10abcf6b1d1d9f8e99590b3a9c0588d423",
+  "seed": "RAcjXeLxHGL91SPT"
+},{
+  "user": "Sableye",
+  "hash": "7aadb866e6353897e91c6ffa8a775d1688e31dafff565f9ec1b63d3c909f0621",
+  "seed": "mDcseA30y695cBaV"
+},{
+  "user": "Shuckle",
+  "hash": "353bdbfe097f2d72b94247869408db32f6ccdc11b49d2e83a2d7441577f4785d",
+  "seed": "AYMu3EzPE4beaLNK"
+},{
+  "user": "Furret",
+  "hash": "f8a96c3b884ce2d9911579225ad9889a312d13ddfbeb4a4271b37ca3393a0219",
+  "seed": "1tZ5gk5axKksYJKW"
+},{
+  "user": "Shroomish",
+  "hash": "ce4dfd719dfbf6420cae3e437a195010c09411193c27cc61cd836219a0bac21d",
+  "seed": "5CK8sOwHDtD4kdW4"
+},{
+  "user": "Girafarig",
+  "hash": "2803d7421be09209472dcc981b45df62f30fd6bf7b72b486d43adb456b2dac64",
+  "seed": "U3MWtgI458PoV6ZX"
+},{
+  "user": "Steelix",
+  "hash": "8c9b103686c547bb2b159b5e6cd88b7500492d3c0f2162fe223e689db07ba4f9",
+  "seed": "oK2wT4Yl2AE7el9s"
+},{
+  "user": "Marshadow",
+  "hash": "92205f77839bee2c3da6c91f42c6b18aa1ff2e91f0df5f52686013f163332d48",
+  "seed": "tVtltlUBMQpNATd2"
+},{
+  "user": "Politoed",
+  "hash": "5366552baf98a61379be2ece27e0e8e1f73c3c17b670a71d98f0f8a18c4d041b",
+  "seed": "tlBCKxAoD2tWvQKz"
+},{
+  "user": "Cresselia",
+  "hash": "eee25ffea408957a071313453bcd74d27e1d100533caca0d18e7a4ae9d4dc894",
+  "seed": "z849OESUFxDCJnrK"
+},{
+  "user": "Zeraora",
+  "hash": "d1a35fd3cf1545f31f4c1e01651fd3edd226f16293c7c95a58bcfb1edafb7c33",
+  "seed": "UCcDTXlzPt3Tu6cj"
+},{
+  "user": "Noivern",
+  "hash": "3979bc5032718012991afa1103b7f74b52ca26bef295695f89424ed8dd842aa5",
+  "seed": "pvwGB6a5sLuhYhel"
+},{
+  "user": "Machamp",
+  "hash": "c534a732b9bc120777ec6440c556961ea00e8769d5950106a0eed80792447099",
+  "seed": "FNStjo2DRXbJc9Tc"
+},{
+  "user": "Throh",
+  "hash": "b18c3ed8b45b6268bf1fb87181c55289772a9f4b2ddf8b7c05a829cc33c7a291",
+  "seed": "2gSdUd4J2bF86LmY"
+},{
+  "user": "Rapidash",
+  "hash": "24e4aa4b8b03a527161a79eb1f77950755f606e442aac182e9118b2a44cff810",
+  "seed": "kK9oiI4nwNye4oAb"
+},{
+  "user": "Cubchoo",
+  "hash": "cb6bde13d9e6b78d0b0588eb1e4ded6945a2946b82b2054880186433aa9fe612",
+  "seed": "QASuwfvGo03kS9Do"
+},{
+  "user": "Rampardos",
+  "hash": "76aefb18cda9e59c5c4933861e7dbf079b388998c887644c10e92fcc274c4700",
+  "seed": "kSqaaTwsCd9fAvt3"
+},{
+  "user": "Palossand",
+  "hash": "eda889d8e58e63a3054dbf93ef271f86e6b1b7e1e1b07694a33311812ec33a8b",
+  "seed": "JwwHbCKXCbDtXptD"
+},{
+  "user": "Barboach",
+  "hash": "01ea1ea3d504e911dbf9becac295a8e11a52b74b26158d8472a8fbfbcde5a897",
+  "seed": "W2QfpWXOExBZbplL"
+},{
+  "user": "Absol",
+  "hash": "6bcf16cf61112d0db312240e2d8862e9153a774f25ed002b595375fb8b25f8e3",
+  "seed": "6cmjy9UIrlqBVnO4"
+},{
+  "user": "Gothorita",
+  "hash": "d26195c26b7c932ef6f34f90fc0b7d6e18bdf721318c365b96d84f1f67f5203d",
+  "seed": "wgbbChZj4MwgNTtj"
+},{
+  "user": "Malamar",
+  "hash": "d7c03f5494cd33fc84a536903fc35a22d92f2fa46f94239a1045e4f882853add",
+  "seed": "ZKVzRblBQVZw9f26"
+},{
+  "user": "Slowking",
+  "hash": "914609191d172fdeb4d12894d30d1e148e8fb98c085ee79722b3c80ed7a815e2",
+  "seed": "rC8Iw18a2LMosurC"
+},{
+  "user": "Munchlax",
+  "hash": "98b615c33d77765c9ac06f7c195898903aff15aa25ab91ea5d068fbd730dfe63",
+  "seed": "s0YBK3zuRvZ90T3x"
+},{
+  "user": "Passimian",
+  "hash": "dc4025d930d843a618e548e71615bc26ebd87326a33cf9d981c649ad6322686a",
+  "seed": "m3e3CIR7beQ8RtB5"
+},{
+  "user": "Feraligatr",
+  "hash": "257e24ca86a0b8e655a1b0d83dfec225368438fceca68c2b4df4c0dd23ef4b48",
+  "seed": "BJLfAsUrPqpAAEtA"
+},{
+  "user": "Azurill",
+  "hash": "277dab2305b739faee140b2ef7db883dea3173252265d5796c1bd4963eff38df",
+  "seed": "rv44NPYLzMvwhADQ"
+},{
+  "user": "Toucannon",
+  "hash": "d7196bfc0a0bea32955436e4ff90a91d0a278141277a5dc4e064e8fc888465c8",
+  "seed": "zqZArmw3P96tc9rX"
+},{
+  "user": "Doduo",
+  "hash": "5a6e6384f6fe5b1c569fa9027e79b0d3ac41f42b79328d5a83c45794cf215186",
+  "seed": "nqt0I9iyy7es4SVX"
+},{
+  "user": "Greninja",
+  "hash": "27b0a08ef249f04998bb86c976a1551d2ee825f0d1ea3f0c1632523b09cd593d",
+  "seed": "G1xpNov66oVuuWM9"
+},{
+  "user": "Poliwhirl",
+  "hash": "b12757cd33a7ee2ca21ab2912a7c4861e22cd4bbed9a9af296b3218abe11a690",
+  "seed": "fOx1x0iNYfY2ztMe"
+},{
+  "user": "Dustox",
+  "hash": "444417d169efbd5cfb9584387b7417e5a7cdf6abc587f3c11ca7528356615448",
+  "seed": "uBCiSDkVhmTEbcZO"
+},{
+  "user": "Ferroseed",
+  "hash": "2544a00b6234d0f4e8b2dd761c9e05a1ce0ead4f5eb40247af1bd113343856dc",
+  "seed": "K6UJH9ZCmJ6eu6fp"
+},{
+  "user": "Stantler",
+  "hash": "6f418fc2b1f04ee45fccb1d6ab96ae0c5f7ce805139da8de67d15ca4a03f9d8d",
+  "seed": "KdebmdzYqIyzcMWU"
+},{
+  "user": "Chesnaught",
+  "hash": "4b889db6d3cd9e07b0d61220901a41d5e02b9a728033472435d2e8d49ca063f6",
+  "seed": "Avmu7tigLW6vNy4C"
+},{
+  "user": "Brionne",
+  "hash": "c4cd2151a2a49d90875bcde21ee2269253ef56d76ccdea69e869c5c505a7f231",
+  "seed": "iC55b0CkUS6WC5mQ"
+},{
+  "user": "Sandshrew",
+  "hash": "c1dcd3db47ee37efa7c7100413817aa3cc1727ac0d9316f046c39d10be38d5b9",
+  "seed": "2z8K1oilOx9uEIKO"
+},{
+  "user": "Beldum",
+  "hash": "c8290e9b0f8457d367a4a1698c7171508eb06d5f7787b850d829a33eb7f11076",
+  "seed": "zBdr0A0pQPXO9tZu"
+},{
+  "user": "Beautifly",
+  "hash": "7c520a02f66b4772eaa1ce6c75268dfd487a319114634e5a24e194b2bba67cc7",
+  "seed": "HqanQpkzKxIkeIah"
+},{
+  "user": "Swinub",
+  "hash": "a008551fb39346b5a1d5af3b9b3e2fb1e9dfe6ca90e1ad66e6b7fb0421ecff29",
+  "seed": "Y49zJfLeIRvp425c"
+},{
+  "user": "Mudsdale",
+  "hash": "7ea674c4cae9f6eb19f6ea9b010c5ace9ed4a0147618044670efc3905830081e",
+  "seed": "e54sJcOGry3BUZdA"
+},{
+  "user": "Kakuna",
+  "hash": "7dfd5dab35a45ec5fe540a40719c489959b42fc26428fda8ed7a8396c83db338",
+  "seed": "W0WmqO31rHvI61p5"
+},{
+  "user": "Crobat",
+  "hash": "efbbbdec72d555e8864b1c465ca9b38fa45e6c33f4db15692fb26452d0fa4eb2",
+  "seed": "cpgAukkA7XSGL82J"
+},{
+  "user": "Vanillite",
+  "hash": "02490fae3b9d2dde4cf7f93d215c9643def80ac179d86d978800fa3a663efde5",
+  "seed": "V1tTopjqLvGjgoNL"
+},{
+  "user": "Necrozma",
+  "hash": "faddbaffa5974e18fda44700d3b6489515808a5219cbe16c5507d5ef66d16ba2",
+  "seed": "a4EFxPolmTCwMdzl"
+},{
+  "user": "Wartortle",
+  "hash": "b503b08fa301273033aa16cfdf6e8ffec6f598e4ea1ca9b5db074ac0d1675d27",
+  "seed": "cbEFFMH3dRMNEvDd"
+},{
+  "user": "Electrode",
+  "hash": "8b8d08e06e2e3849835b07922933561fd3c4c7dfd97f9e37dce324c7d0be4536",
+  "seed": "FD4pBvzHfBLCMmvu"
+},{
+  "user": "Cubone",
+  "hash": "b48b15b00d373325376fc18e004164a8b9fd6b932e5220800a93cddc889c2f13",
+  "seed": "BQ9RDq3HNWvzETb1"
+},{
+  "user": "Manectric",
+  "hash": "0345911725f9d08cc59a42f19b35e6a2cc2551acf7813a7a5d7fdbfecc85c129",
+  "seed": "bMftNN9BiS4lX2HE"
+},{
+  "user": "Kirlia",
+  "hash": "4c84a1758a4a7621382ffcfcd0e1a5de9d950e08f319b6007bc69c21b9d5f97b",
+  "seed": "6tgtMlZtVGz8SGLj"
+},{
+  "user": "Cyndaquil",
+  "hash": "4ffb2d747bda55237b385c5a6afb010c323c256c4af2cde2dc2a3c86f6740bfb",
+  "seed": "zeqDDSbIAREZU8FI"
+},{
+  "user": "Pyukumuku",
+  "hash": "3b6d52ab71ab7cd4084ecf8c6330fedd4df651c879c483765aa978a8c30bb07e",
+  "seed": "Ub9HIQATMfmX1weJ"
+},{
+  "user": "Timburr",
+  "hash": "b07e213c948e5c97a14e6d3cfa5429fda35717fefad4547cc6869ca312f694eb",
+  "seed": "jzyfYYAhyQDsgB0C"
+},{
+  "user": "Entei",
+  "hash": "427c27016b2b22c57d3317435af25be9653e77b2ef1943c4b9468226bd1034cb",
+  "seed": "zmdFkYjUfi8ZdGm7"
+},{
+  "user": "Drampa",
+  "hash": "c0ce553893783a6b3b501e5de26ee77fe0290962c2831225ae9390bec08ecd9a",
+  "seed": "78dloHHPgqiZmN8N"
+},{
+  "user": "Amaura",
+  "hash": "b1d4b143436204a24170b9883857623a84b6534f80ada235acc4088beb8031d7",
+  "seed": "pI031DiGBVxtFWsh"
+},{
+  "user": "Kricketot",
+  "hash": "ed18660ae87c22be2f2c3c6be5e09ece9363697b504598421a179d7208b80d39",
+  "seed": "S8Vppj6xxZv6Er45"
+},{
+  "user": "Cofagrigus",
+  "hash": "46050e3c5259e380015d505bee0657813f31bdec8cf406f58bdac8588b3c1b45",
+  "seed": "9LRjF8oiEigZwnfu"
+},{
+  "user": "Seel",
+  "hash": "ad58ba0efacab42de6b461c6ed37995b1915e09eb24ba5a7f2a07c3c7d1bd482",
+  "seed": "R0m1xrMlLUPwqXfo"
+},{
+  "user": "Sudowoodo",
+  "hash": "918d0a12a20774b2271434ddc9d551d8e174ed9371ade62563da0e12a8bf41a9",
+  "seed": "ltdLYoJkvcOPLVA1"
+},{
+  "user": "Garchomp",
+  "hash": "f7bd5e713afcc8a25394d28fb50da641386a9f7554e6d024061dcac034e27d57",
+  "seed": "zJLlFwHHUQgv2HLu"
+},{
+  "user": "Unown",
+  "hash": "32d1331683735c13448b9820804b6f9e5f9ee263fe3302467fcd155ebf8d6913",
+  "seed": "Sy7VBLGbH0Z6lbqY"
+},{
+  "user": "Gastrodon",
+  "hash": "6dc726bda3bf696f048dd54346ae2f61e35262169aa0f32f445729c5e1e05f65",
+  "seed": "7bLjrf66xs9kT4iN"
+},{
+  "user": "Wobbuffet",
+  "hash": "45d44f89230ad61e2e786e778efc868e180cd740510c7834e2441175fff9df74",
+  "seed": "MiRqYAJ8dAwxDq67"
+},{
+  "user": "Flygon",
+  "hash": "9267d35d7f51ccca7e72aa66dd92b8f415887b20af33bdcb77a2f7c1c8787a4f",
+  "seed": "DelYA51FrPrQ25Gk"
+},{
+  "user": "Excadrill",
+  "hash": "bcd89aee0b00795c5953a227b1c127a0083561c0e36002a72e22b90d62816bb0",
+  "seed": "1bOd1p6zOir8pUNJ"
+},{
+  "user": "Roggenrola",
+  "hash": "b681cbf3101aa2830b4bb3d027eb6c5682cbdab9c355c0297512b756ce95f40b",
+  "seed": "YLp1oFUO6KlmB5gZ"
+},{
+  "user": "Patrat",
+  "hash": "dfec6d461d157bc81bab84e7024ac708f8691987b02cb8d1d68cff71d74d1962",
+  "seed": "fsIZTp3Vrh63bllo"
+},{
+  "user": "Skrelp",
+  "hash": "7087d4e1158a330ce0ba2a65656eecb07c615a72c489a2f9c60d55b05fe8c6e7",
+  "seed": "MX8ivMKYbKqqTTXD"
+},{
+  "user": "Tyrogue",
+  "hash": "ee484c1826c4937f5eaf3cbe5ee2adbf3ce51e589ba7b61a97ed53bcc7790124",
+  "seed": "lJyIVwaZ1MglaugW"
+},{
+  "user": "Wimpod",
+  "hash": "3b5f2186c2d03564d081253acbd9418335590b4fcb1e94e4fff8f5c08cc63f4e",
+  "seed": "f0P7cqdeM5CdpfxM"
+},{
+  "user": "Beheeyem",
+  "hash": "1d086e5d1df822cc10321d6c52a1712f90c805fa496209b78aac983112a2d6c6",
+  "seed": "grDEmwwmVh6Uvd7n"
+},{
+  "user": "Minccino",
+  "hash": "c5b00e155087bfb6d5e499b17f4f3ecc16c5d7f8d714d007cc3b581a64a4d206",
+  "seed": "EEIEl5mG3AbycLuq"
+},{
+  "user": "Bisharp",
+  "hash": "15e8f612a556814ab36d70fcca927b710201e22aa4ccaf18f7f5dd485ba0e795",
+  "seed": "wIBtrCS0k8rcdKxd"
+},{
+  "user": "Umbreon",
+  "hash": "cb9595d3a88cf3d55dc8820e1f20790eb9e10590e51d0af2c443c331ad780ab8",
+  "seed": "lrsMoc2r6cymcStP"
+},{
+  "user": "Grovyle",
+  "hash": "86851cc15cfc090cc23e2a1bb950a58201ca996d22eda966cb7352a79a579f41",
+  "seed": "bZ8msxl9BKBJqkny"
+},{
+  "user": "Samurott",
+  "hash": "0dc87e15a93728b373d08db0b22649a49646bfb652202c53df48ac411c0780bf",
+  "seed": "5VgyCFUQizIK5ueH"
+},{
+  "user": "Larvesta",
+  "hash": "ad85d8c5c40808047a38eb09f4c8173fdcb65121891cb0516ae019e2956b5c52",
+  "seed": "M2cdq3Ey2I5uiGxF"
+},{
+  "user": "Woobat",
+  "hash": "a99d94e8fbde3a2cd5b8c565af7873e5d7d00d349c8459fdd5d944e0d6f63bfe",
+  "seed": "qc6lpRghFQM492aQ"
+},{
+  "user": "Poliwag",
+  "hash": "16f30bf424140ae0abcd3b67345a5409a8695b424fc57ab18ce73d734c31a351",
+  "seed": "j76UGaRLtjE4NIdw"
+},{
+  "user": "Croconaw",
+  "hash": "ddedae118b1728d56ae9e4eb4f4b667863912c4cd09df8f1c65d73b219ce0bec",
+  "seed": "r3mxKnOXvXdbkHI3"
+},{
+  "user": "Leafeon",
+  "hash": "d956fe5dc6825b827d41d916ac00c3c775635963b5ba44fff428dfafcd77cd71",
+  "seed": "DBXo8yY59q7EJhRx"
+},{
+  "user": "Skiploom",
+  "hash": "207231c32cba3836d63208d806ea67e931041b9ea0dc09982a6c9bdb351e9137",
+  "seed": "HUmZciBioKDDxiCX"
+},{
+  "user": "Noibat",
+  "hash": "c2ca4b043104a18a0fbfca6dfe57e526f3623b584761cbf879501bb8855e3caf",
+  "seed": "TeGjhCIBmgop9vWe"
+},{
+  "user": "Dodrio",
+  "hash": "64d8509f1663a92e63c51f8ec5c1da47f50e9539e39c448bdd7553f3c542f04d",
+  "seed": "jXqomMInDmFCYTID"
+},{
+  "user": "Whimsicott",
+  "hash": "c3add81b717df70e487e3dccc95c3c928a8e38de6efbd72d0dfc03692874e047",
+  "seed": "3BrnEkLX8DWu5pXE"
+},{
+  "user": "Marowak",
+  "hash": "7d4f1145b3e36228bac1ad51fa2b70c8d991353d0d201810df814b8457ad04bf",
+  "seed": "LTcCt4JipOYEMgTL"
+},{
+  "user": "Pawniard",
+  "hash": "d98e0bc23270998d175e1bf343012afa1dfa0338d11a785392332babcd18b16c",
+  "seed": "b1gjS1AEbYaUUEOj"
+},{
+  "user": "Magikarp",
+  "hash": "24415a1ee5eb8dc5eca6d2116c7466e630cbd709d4502bd5aa19dbdf65b069aa",
+  "seed": "fek2KJJKUqjVN7Re"
+},{
+  "user": "Metagross",
+  "hash": "f6a845b930f92f012eeae282832b9aefb6f19b65f6f4a68a980a7431aa2329aa",
+  "seed": "GCz0vFeHrh8uSSXu"
+},{
+  "user": "Joltik",
+  "hash": "41626845fac2d59f67747ed408a9a03769155c22c2be6e18279d12caa9bc0c29",
+  "seed": "LRVnZrquigiLR7k5"
+},{
+  "user": "Bronzor",
+  "hash": "4827ea57ba0cfb2ea6c345525424fc13875488b210e2f7edc4d3d9fa348a90c7",
+  "seed": "ZatYb3lpGIgVm6ps"
+},{
+  "user": "Combee",
+  "hash": "970ad6bec38cc4ead56222fa13b0e6533beab5d7d3d366c63d9f6565d7689ec4",
+  "seed": "fS6OB0XGbTP4tIt5"
+},{
+  "user": "Medicham",
+  "hash": "9ef118be37a050b526b7fa4084a8ef60f2a8fd16c00004477bc5227c58cfccb3",
+  "seed": "3TCOCfhN2vwANUaM"
+},{
+  "user": "Pignite",
+  "hash": "a48cf3a4867719654f923de47cd91135816f3fba2df5e2819af39a5e6bbf58b9",
+  "seed": "aIYI5n8hxkkXlAPa"
+},{
+  "user": "Drilbur",
+  "hash": "205ad8eae8a3b92a4433a0e3da19f7d545d670ba1727b2c619bda34f178832bb",
+  "seed": "8rni4dDQ08vP1sy7"
+},{
+  "user": "Diglett",
+  "hash": "2f8c5055b6c89161934ed91f60b20b26d12068b4e622b8f6db38189a350e8d01",
+  "seed": "yWO6A771zDDFaH1W"
+},{
+  "user": "Venipede",
+  "hash": "b6641daf893d49f13a7a4d6b6f09d29d41f8e3bbb26f921bfbcda1152024d0ee",
+  "seed": "2HjVFq7kjq5RJyY8"
+},{
+  "user": "Lurantis",
+  "hash": "d03d9f36fd9aaf12bfecd5457c78cdcf51d0f78257cfbb7b1a7a66b7aec4712e",
+  "seed": "RArJGLC9N1rutywm"
+},{
+  "user": "Meloetta",
+  "hash": "fdfdd5215c35d75bdf9d48e7130d06d31497769ed75604ebd4768b919bd228c6",
+  "seed": "vFv6RKMK1lNY0JNw"
+},{
+  "user": "Staravia",
+  "hash": "492fe9baa9b9720f877df5e1c44e515005064f53aec92fe49fd0468b14817484",
+  "seed": "oA3cvB1HyfRKl9HL"
+},{
+  "user": "Helioptile",
+  "hash": "aacd4aa32fc4bba0948bee9119bb56bb4a2972c3634e1901e06c6ec4498fcf3c",
+  "seed": "OdODsSDLcmAaqmmQ"
+},{
+  "user": "Uxie",
+  "hash": "34a8063f855a9630446275158009e97255d1e53292c9c9801e98546d39f5a46e",
+  "seed": "Y7E7t9sCNzXXnODd"
+},{
+  "user": "Sliggoo",
+  "hash": "6ff6882f526b8826c510441c5b163b21b176ce912e8b937fb4f1cc977d9665ce",
+  "seed": "AEmEb9t8taxH2f31"
+},{
+  "user": "Sylveon",
+  "hash": "67f7b96f0317a1f07cad5377e29098b8137bcdb0bbede5c7ec9495f90ec2992b",
+  "seed": "sK9OOsEbxDFctHyk"
+},{
+  "user": "Dwebble",
+  "hash": "2833448b5f53221a3b12329415568b4ad12a3a1092f36064cec6bd3fb37e6e2c",
+  "seed": "rTtoVkLdbTsg5Hki"
+},{
+  "user": "Delcatty",
+  "hash": "e5b4653f5701f3f3183f18a2a5bf8b2f7524f211ffe13655abf67d58f6c58db8",
+  "seed": "VXnpnSGOsabR78wt"
+},{
+  "user": "Altaria",
+  "hash": "59abdf47b0e997abfd5e4e9c88259ad12018bcc71d3cdd01a99c097a54150ae6",
+  "seed": "ybDu0bm9ESIvxoWN"
+},{
+  "user": "Yanma",
+  "hash": "9d28738e3d0b2c6d9426e3a580e3d4a56e3ec84d795706a70389a7988e14620e",
+  "seed": "GD0El2xteif0wmTJ"
+},{
+  "user": "Onix",
+  "hash": "119544baae20ca2fab03e8d427defd41f5c5edb17b911f480add50798ac705b5",
+  "seed": "1IoyQwu8SyZLwOUM"
+},{
+  "user": "Frillish",
+  "hash": "c4891e36b93d6218b5c7a5e99a16b9219187c128cbbc8a52d3058c3aea6632a0",
+  "seed": "0Ct6RjNANjVHD3fT"
+},{
+  "user": "Mareanie",
+  "hash": "f9f1dfbc90ce35ebc6e0030cb60f25b4b9747a24131c0cedabeb1e8a7c911f35",
+  "seed": "uidgmvGMP1aR0S3d"
+},{
+  "user": "Clawitzer",
+  "hash": "48843635eb1eda885cecfc8c3035f1eaaa48f79e8772cfa44ec6a6c378a07cc7",
+  "seed": "VcTkWiwHUmwqIJ5P"
+},{
+  "user": "Hypno",
+  "hash": "6e50c7c8d9b07fb9e6031391702d2e28f4c74a665ca1736a9c1f12d7fa112ebe",
+  "seed": "m5arjDbtixrktdYq"
+},{
+  "user": "Victreebel",
+  "hash": "99949e168ec43413ff3570ce6ef255590ae88c7713ae7b2b1ba0eadc1a15db5e",
+  "seed": "DT04x5wt7w7tfAUR"
+},{
+  "user": "Meditite",
+  "hash": "0e56d81f45042bbdfa2d0b2f8f55a51a5032d2fe5e5a79e94d8efc15e306965b",
+  "seed": "YTvtOcefotjLhznh"
+},{
+  "user": "Wormadam",
+  "hash": "227cda415861c1d9ded037d0f9a0f9af3ae06b82dcdeb79718816f61be77fbb6",
+  "seed": "sqVawmMfV8ilEj7m"
+},{
+  "user": "Yveltal",
+  "hash": "d1e75c7a32dbc4fa40a2ce0ea09d07461e1a991370dd299ad5641182f1d8b857",
+  "seed": "XFCmIU65oUxzOToW"
+},{
+  "user": "Seedot",
+  "hash": "fc1935680e8d1996f537d2ad6078919d3ef798fe4c756e80611003126cb86ec6",
+  "seed": "gGrGg44yy8rzK3XG"
+},{
+  "user": "Axew",
+  "hash": "811b3ae8bd82887f7b8756473f9adc07e7889a1c452a7ce7c56f4f6c4ab1b94d",
+  "seed": "pL27cH79gCgVEi4q"
+},{
+  "user": "Gogoat",
+  "hash": "56d43765257bc4a1bb861799247e72e922501d76339ff50f013255924d545851",
+  "seed": "VS70AHqqVCf3g7cE"
+},{
+  "user": "Treecko",
+  "hash": "8da435d674370ac8574f850a473331dd2e192770eb737d09d5d078d3cb06dcfc",
+  "seed": "uxQSOZVldfIa7RXx"
+},{
+  "user": "Hoothoot",
+  "hash": "829a41aa9157d0ce6c8aa82fd4c99aee5fb7eaa026f22808b7c76dfdcd2479ee",
+  "seed": "0MTvwXh2erUeGe9d"
+},{
+  "user": "Jigglypuff",
+  "hash": "7ce519b1b1f050889dc32875d9846c1b5cc8b0c5bbc82fb3087bfbee97febc4f",
+  "seed": "45GZjIai8O0GOUDX"
+},{
+  "user": "Xatu",
+  "hash": "ac6f95bde89c49ddbe20d168c9c76fa8eb9c3723ad717b5a7a3bafc3ad1041e2",
+  "seed": "1bBV9RKi4XICFfY3"
+},{
+  "user": "Houndour",
+  "hash": "99632a3dcb8f497f68e8a7a7ee2f7113f4432bb5f1aa9015f27307b1a52f42c3",
+  "seed": "fWSpaLWOOR3OSv9l"
+},{
+  "user": "Toxicroak",
+  "hash": "0a1e63c7e3e4776c81f456370ac2b9d4261dd6e8567918b8fdd837481734afec",
+  "seed": "4bc8iy1DSabzJgjw"
+},{
+  "user": "Psyduck",
+  "hash": "021d2384f32f9fb05c96b2fe7612d39a628c8ff569b87d3fbab632b253d53e8e",
+  "seed": "BnBzJHAYGyXUJjwc"
+},{
+  "user": "Gumshoos",
+  "hash": "0fd1981dec32fae76be8cfe18f5e4262e28e4214eabdaffa1f080adb98cb174e",
+  "seed": "bRvInVLLshbXLgD4"
+},{
+  "user": "Fraxure",
+  "hash": "1a50a1a487e2867d37c7850235fc9726f1c9a4fb579d31482624c25115cbbd31",
+  "seed": "BmzaPNsxutemhEaN"
+},{
+  "user": "Ludicolo",
+  "hash": "fabef6c86c5dc70d9b2044de2d281c54c71ab09d2e0115616eb07142688c8e69",
+  "seed": "Pz24QFjZWGA78S9L"
+},{
+  "user": "Delibird",
+  "hash": "e69458cd1395e45f11d56e664b0d41da7a1d7d2d8a83da24a58c4fb6ef03965b",
+  "seed": "0WHqtseX74dJrHwK"
+},{
+  "user": "Deerling",
+  "hash": "68d7e719fc03c800f56198b141a88aff7d9997054607d08fce2c71cf0be8f5d9",
+  "seed": "ItD3Hs38IGzGoY9L"
+},{
+  "user": "Vileplume",
+  "hash": "7fad52967d0246d9de8695fd13a3bea6fbc3c896180da817c23a2088dd37beea",
+  "seed": "Uerv8yEDNHnDyKCe"
+},{
+  "user": "Chikorita",
+  "hash": "6fef793bd9f2f3fc6286356463fb43a13951b06cb2a4c1042a03eefb397a35d0",
+  "seed": "Q1rKdQ8DtEB31wEH"
+},{
+  "user": "Vanillish",
+  "hash": "4d88dc197ea7dc7afc831b2affb4b64d6e44f5746a33c11f6ac79440fce3e51a",
+  "seed": "H3ERS19ELsffr94n"
+},{
+  "user": "Lotad",
+  "hash": "d6c98dc12db378780c6f6b8b48775ea104720b148806f1542dddc076bda5e205",
+  "seed": "JU9ujNXKLS7SOrrQ"
+},{
+  "user": "Yamask",
+  "hash": "ce6ff919f7418ea8c78b61bfea91a5560a4d3edf3e690941d63571eba9e6af8f",
+  "seed": "CsLtWWuXIA1qaFfu"
+},{
+  "user": "Heracross",
+  "hash": "143f6d7e5855dc8f0a389b87b5d88a3211641a8a7c964d25666bcb2dbb6384f2",
+  "seed": "z53bv20i30syUMHP"
+},{
+  "user": "Skorupi",
+  "hash": "ab8129cc96c23d1690caa02e249dbb9381994178146bdb4bc474bb91eabc7ce0",
+  "seed": "KUzhpR3NCtwibKck"
+},{
+  "user": "Serperior",
+  "hash": "3adb71ef03e810fc23e77ba5ea6eff4fcd61cf15e4a68e2b856b9009f57de1f0",
+  "seed": "89TQdBmcZXMEiLFj"
+},{
+  "user": "Pineco",
+  "hash": "0856706a248675d24540870f53423cfc856a2602f6cc6a6646be85a8b13b659e",
+  "seed": "u6vAOiqtQVP84a21"
+},{
+  "user": "Cosmoem",
+  "hash": "9ad1916dc244d4b589751d795a2b58b79dc2ffafa7f53d9a59a7b28e0d30beea",
+  "seed": "hR2DKxU2yl1EM0k9"
+},{
+  "user": "Wigglytuff",
+  "hash": "6df27262e26cdef92de683b552194d2e273f1d5e90e912d92ecde00af69739b4",
+  "seed": "KEQ81m97KDb2kP4f"
+},{
+  "user": "Litwick",
+  "hash": "b04f98ed4d68355a3bcd611bce0e2688d69039d10b493f0c84bc73d8c77f7317",
+  "seed": "LPqd3sfcc7iSt8hI"
+},{
+  "user": "Burmy",
+  "hash": "f5c7a701564c158ee5a9cf0970240ec15c0ca771ff8589d259b58be19a014d1d",
+  "seed": "24dKd14BPSZv6BC3"
+},{
+  "user": "Vibrava",
+  "hash": "92824aae674872de08284c3d260860fe73e3c77192e2d469f6e505b9556adb0b",
+  "seed": "EoneMWCE3Ga5C0zF"
+},{
+  "user": "Articuno",
+  "hash": "1c2bc57dda9597a55bcfdf014ba9e74e66ffcc0e9c4f8604ea0e491e9a70759b",
+  "seed": "U1uBFiIPfHlTHrMx"
+},{
+  "user": "Spinda",
+  "hash": "52e0fe361d9106f6e927462fe23e5f8c00e8672f607549eb4a8f1bdd9c6f71e9",
+  "seed": "giHTDdCijQrUTbZM"
+},{
+  "user": "Electabuzz",
+  "hash": "2e1f15920f4aa3bb2c2789d747d1bcb389c26125f1824a93ac24bdc5e930a4f7",
+  "seed": "WBqwQvLmFsWf9O1T"
+},{
+  "user": "Probopass",
+  "hash": "2cb24ae9ff848434c38df5f42874c51df3885fa30aacaa1ff157bf3a8caa5a75",
+  "seed": "AHlfY83PVugqME7Y"
+},{
+  "user": "Mudkip",
+  "hash": "d0f541c0e7c3636408f9512bd5fece0673f58808f3b78d430fe4428c1df1f871",
+  "seed": "Gk7xdqBbGEIbRTbS"
+},{
+  "user": "Kecleon",
+  "hash": "8b0c98389b47c8685ec30b772146781597cd8a2d28c5bbc4ba5dba5e45f7ffc0",
+  "seed": "q88ItQFTBIiPW4oV"
+},{
+  "user": "Jangmo-o",
+  "hash": "26f505fcd93703f71d26663c184e68c176977449bc4d6065c1abdd5ca67fa550",
+  "seed": "DXCz3sknfb6NFWPR"
+},{
+  "user": "Metang",
+  "hash": "eca25f4f981c7679865711f0ef18d37da42f4b5c6a63331aa071db0c512c6dc8",
+  "seed": "Kq6ERQCJ61L8OaWE"
+},{
+  "user": "Pyroar",
+  "hash": "4274969a061b9451b36734033b3d1c16fe7cb6bc5f883cd97ac757f852e81ab7",
+  "seed": "mAX700xpVKNuNvDC"
+},{
+  "user": "Rockruff",
+  "hash": "ff8812b3dcc3d40ade1704bf0afc87302e639cb9a68549b94b6993c54dcfa3da",
+  "seed": "nkXLLjGW70BVcso5"
+},{
+  "user": "Xurkitree",
+  "hash": "9ff960bf7c7e4536fd7f12b70d643775b5ded36fdd23d59a3b0cebc4c529a4e0",
+  "seed": "fG3oospecdp7v9JQ"
+},{
+  "user": "Pansear",
+  "hash": "0d973bee955c31d1216d1a75205432d5f1b6d0c4061edfe575a3d778fcc53f75",
+  "seed": "wA2iLZVrx69G2j2X"
+},{
+  "user": "Aromatisse",
+  "hash": "da745d9af618643d9a30d373661a73339203ad7dea22129de65b3c64bc2b978c",
+  "seed": "qasd85OScuK7t5dZ"
+},{
+  "user": "Grimer",
+  "hash": "c67e90ceeba093c2701d158502812f26cdef45c7f04d72290b6cce901b645165",
+  "seed": "phrm5aAOeszwQcWA"
+},{
+  "user": "Ledyba",
+  "hash": "6fe5a653fe312a0cf2cc3eaad72777d56267591d12f753485e6278ed34cdac0b",
+  "seed": "VZ5rSWFLvHgGyREk"
+},{
+  "user": "Exeggcute",
+  "hash": "ebc4b324ba1b144bacbcec872106c6f56f966aef96366264210c7799f28c30a5",
+  "seed": "mqCV0jm0odBglf1Z"
+},{
+  "user": "Incineroar",
+  "hash": "dbfeaa3d473c9410f5197bfc634a819a1a1c7e9f6d8f549c8d345df37cd8bf3e",
+  "seed": "Ruh74tke1GcbaKew"
+},{
+  "user": "Komala",
+  "hash": "e0536e2ca5419ae949756e68101460aa35e25f4af60695c1e37f3418edd88694",
+  "seed": "dLqAaZdTS9QgLKo0"
+},{
+  "user": "Landorus",
+  "hash": "ce5a93a60e407672c6b3b106c0a87435a28df1b2f21caa78ecb6a8db4eca19a7",
+  "seed": "qDpnthAiJCuvRj6x"
+},{
+  "user": "Mantyke",
+  "hash": "38d01e6dcd5cb6e0b69991039c1217a751421ee3547ba8405e4e651aee4677f7",
+  "seed": "JKqqPolMNGbEDaMg"
+},{
+  "user": "Anorith",
+  "hash": "75ce81d865c1e93be3ac46dc84521fe9275d469e4c56b8f4e9a37742b3b8396b",
+  "seed": "p2XclgOYCR3GG6Ar"
+},{
+  "user": "Chingling",
+  "hash": "c5e3019e4a14d9a9ab49add9645e8f7975b385bafd2f6a22a443000cd1c33ecf",
+  "seed": "6fsT66cmuQjR87dA"
+},{
+  "user": "Kingler",
+  "hash": "3825e7ce07365ad6ca713d246cf0d0ff035235dec6df53d96a09802b003a19f7",
+  "seed": "yFVKWb2riIwgwGD6"
+},{
+  "user": "Crabrawler",
+  "hash": "b6f62af650ee46a44a23c1dbbe080aecd3ff2a3130ab34c2f7789dc06ad2c287",
+  "seed": "GaVcbe6KVavhXUCc"
+},{
+  "user": "Scyther",
+  "hash": "1b1d924f233d7150674e59d735f8f792d6a882ed3e1f1d4a04542b56acafc135",
+  "seed": "LwRAzP5nIqhaSfi3"
+},{
+  "user": "Dratini",
+  "hash": "e2b2f9891b4d50e0bbe252d23bd02e45ed0f30196f1b0f6a9c4818bb9b8740e1",
+  "seed": "prPhQIKyeORcpQGa"
+},{
+  "user": "Feebas",
+  "hash": "f580c7ab4bf3aa017b189fe803926efa259faea927ff8e0a3faf89e72aec4824",
+  "seed": "TUG4IRdZ7hQTmhdL"
+},{
+  "user": "Togetic",
+  "hash": "b5b9c1e920592ade5f04cdc368f84492ed356dcc1d628b149ae159bc014920e8",
+  "seed": "PeIWGBABWtb4MqKx"
+},{
+  "user": "Bibarel",
+  "hash": "8af538a19114fe64dd5a3d8fe16c4239b73749b7341bd43babf1c22fcc59dcf6",
+  "seed": "hf2k2zEXEpJoCkj4"
+},{
+  "user": "Dusclops",
+  "hash": "a0659902b48bbe38ddad23cc2b8432cd7792df0df111fd62f32d43679e31ce97",
+  "seed": "QKSXSvOElaHTMbOY"
+},{
+  "user": "Delphox",
+  "hash": "178f15b4a0845d09e6cd8f88aa560266ac13b61bbe350d1696fd2eb770339633",
+  "seed": "KnmBwDhYrt541api"
+},{
+  "user": "Butterfree",
+  "hash": "031b3418e55c114644d4c84ecf4da6bf8c0d33651c7da434bf6c0c744e5427d1",
+  "seed": "IzRrFepqOxRmFccB"
+},{
+  "user": "Taillow",
+  "hash": "514ce0edb4e131096de9b62b4a0c7e8263226541a465a7368289e4206a5d1793",
+  "seed": "ODwVMJMi6vTqJEBx"
+},{
+  "user": "Zubat",
+  "hash": "a05e3d47beea2c64199fbf2c10e67324ff77ee5a290eddd4600daa0b9968cc23",
+  "seed": "2c57A8A1vMGXMwFk"
+},{
+  "user": "Fennekin",
+  "hash": "a28cb5357488a9ba27449bf512eddd1031f9381ca575fa8cfeeb6b1de8c91389",
+  "seed": "lHVORdyyqv6H2onM"
+},{
+  "user": "Mimikyu",
+  "hash": "b1ba1ce6b72d384bb2b39530af6bdca3f387901ea8f1a5e7038f1e60d0373fcb",
+  "seed": "KeTaVkmvUc5fgWR1"
+},{
+  "user": "Dragonair",
+  "hash": "8cecd467ba95996daa3aef095315f66a954949c94ac12695e17ca91764235c83",
+  "seed": "ZycAWlRfj4d5yMbq"
+},{
+  "user": "Meganium",
+  "hash": "f5fbd497c9bc91d70498ec236079d6557e3322354bc0bd03cda4c3b835be3cf4",
+  "seed": "Flomcnz79aglnbh8"
+},{
+  "user": "Seismitoad",
+  "hash": "640072c903496d36aaf576c6190a173078445af5b40735493d4b75b89a972745",
+  "seed": "ZQf5EPyf2EyaXnlq"
+},{
+  "user": "Arbok",
+  "hash": "3a8034af2684b30a38a7a7b75b3c73673da6fdfda029b173a8c7c032f3c0935d",
+  "seed": "x0tDyPeu2MQMDvt2"
+},{
+  "user": "Zekrom",
+  "hash": "419eeb76b4334ee58b7e91dc4291bb951f0a86970b81a9e21cda53d6ade32ec0",
+  "seed": "C3FiHOTsuyL4N53n"
+},{
+  "user": "Charmeleon",
+  "hash": "0746a2f70a1c0de9300baca16f3a8c69eccccb89e5c378233eee3715b15da27e",
+  "seed": "cl7PG9Ijaa9LJjHU"
+},{
+  "user": "Bruxish",
+  "hash": "3d5899f2a48e7749b84436f1d0e3e9a003893b9f96ee8c967d1019fa12eab19f",
+  "seed": "ijTB2NQM8LgTO5EN"
+},{
+  "user": "Bagon",
+  "hash": "623e99f9d59001092450ea8ff8bb267f8a0069ea2efac44761e369227532d4c6",
+  "seed": "babOyGeKEzVdAKC3"
+},{
+  "user": "Dartrix",
+  "hash": "d1bd90c7afde42beeb6170fd37746041037d42c836657e837e32b8314e68db92",
+  "seed": "sQov0lCNXzx7MXPH"
+},{
+  "user": "Suicune",
+  "hash": "e0687ec16baca1d50315ea5c6b0d7420d7ef2779c7853439e5e8eb6d3b3e1c01",
+  "seed": "wN7yudpOZeBAgPf3"
+},{
+  "user": "Gliscor",
+  "hash": "569088a75fb8032b3073fc4c85790a2b97836dcde8c2fad0b0ff2df549878aab",
+  "seed": "QD35KGgqJPCYvGjb"
+},{
+  "user": "Zoroark",
+  "hash": "d9781ac2f7e15128ee7b8a1a6dab38405df7ae72875cde26349df8126b3afa1c",
+  "seed": "kPzH29qEM8YkvWcs"
+},{
+  "user": "Cacnea",
+  "hash": "811c1ad9cd4e387386ae935536143e1e18e26aa905d9b052936ce7ce2d1a53ea",
+  "seed": "R5zBekQrYcytePZj"
+},{
+  "user": "Slurpuff",
+  "hash": "1bf7af83d4d966f6fa124a0b93800f0e254c0789539dc127241a3c0b2de5c6aa",
+  "seed": "D8sL55Ex6JocPtOe"
+},{
+  "user": "Raikou",
+  "hash": "e8e5342a640c866e8d606bf9f5ae4be204f2131c1bea1bfd58bc54ebb2f41d9a",
+  "seed": "tNVNwgDgWsQdP51j"
+},{
+  "user": "Minun",
+  "hash": "af5a7aad683e69682559b8b18e5aa2d8ee7a539556e686c286d81dd594156145",
+  "seed": "oFYhw6pTDq5RaKUJ"
+},{
+  "user": "Tirtouga",
+  "hash": "92231e1117a2ac4030a0d7ed86b6079c2b81b58103a5c295b3457c5359551acb",
+  "seed": "M7LiutQ0FE3PG9PO"
+},{
+  "user": "Archeops",
+  "hash": "a3831a30a091ecacb2d8573c8da0f56c7fcfcaf956eafbc7007f8b01bb142a8c",
+  "seed": "whjZZc1Zleq89Z2m"
+},{
+  "user": "Croagunk",
+  "hash": "e757f9e49c0391d5635d783b24adda52d6fc03198dd5a8bfe2fd18bbfff35656",
+  "seed": "psrzyunQHz2U0KOu"
+},{
+  "user": "Goldeen",
+  "hash": "391896f06a769dc6e5f98af2dece32cffaaee811731436a46222e6156a3469e5",
+  "seed": "wozuoFe3PbUmYnHj"
+},{
+  "user": "Sharpedo",
+  "hash": "85aadcb32ccd7b247e2b90ff4af0bdd4ca7b0897e667c77cae515c69b7818329",
+  "seed": "kTlwJE3pxLmmkRVJ"
+},{
+  "user": "Sigilyph",
+  "hash": "f70167b7fd502fc40946b22b855044a4899a6b802dacf6369480dd9a4e699ec0",
+  "seed": "PdnsuHq0dtIPsGAE"
+},{
+  "user": "Hoopa",
+  "hash": "a1f7cf1634487e616a2eb2b628e0d7150532de71419a82222736814bedcf53bb",
+  "seed": "2IYqnZ4GVLuN4Tro"
+},{
+  "user": "Riolu",
+  "hash": "c18953d1c6dee30ebaa2bcd164930982bbf322b50cbf183d70cfc6933a0f8329",
+  "seed": "M4QwqYeXzDHhpots"
+},{
+  "user": "Bronzong",
+  "hash": "6343bc7f9ac9e63cd7c0772c8aa5e89ad1ce7ce0226cb999875abd9c85dbe2f7",
+  "seed": "CI9H821vSPH8kVCK"
+},{
+  "user": "Shiftry",
+  "hash": "1ca4c8a9eb44ece03ec329feed2ea5cdfdf917e3bdd324d9a368340204313c1b",
+  "seed": "PCSR5FGiGVbhs0xa"
+},{
+  "user": "Drifloon",
+  "hash": "f70e741e4dd8475118286a687c336f7ee53a5adef5b22d7b8f258f01cc5d3747",
+  "seed": "BdyETENJqePCJO9A"
+},{
+  "user": "Deino",
+  "hash": "32bf6bef0059d28cd7ba8bb667248fe099c15bb753c6c0bb8a7632968a3893d4",
+  "seed": "dvH2X1tGnmBUad4W"
+},{
+  "user": "Carvanha",
+  "hash": "4b12e7416fcefa1e875db7e01c04647386056747fb41463e188bb1caa7f8c48a",
+  "seed": "8CUqxYFy3P8Qaw3s"
+},{
+  "user": "Kyurem",
+  "hash": "88951ca448c35d620fbd6c47899b4813ebb77edc357d2b8fd515a640800ced5d",
+  "seed": "SplP8z7VbHP7VAAp"
+},{
+  "user": "Dugtrio",
+  "hash": "638994d53562afa86f810ea3b59dcf27fb92751c10179aae2e88b68cddf5a55f",
+  "seed": "r0YPedJJ352E28Gt"
+},{
+  "user": "Meltan",
+  "hash": "d896c27c05e1552c68e65f07c16fcca4e8b31d1090ab85f46967ce0f7fc24e99",
+  "seed": "0VUCaAkgPzWPBWnQ"
+},{
+  "user": "Togedemaru",
+  "hash": "ac625b04671335174f1377b11bdc5c96d0d9e4b9a4cb2b7e9c50e27b9cffc21d",
+  "seed": "yN6rMe2hEAPufdkb"
+},{
+  "user": "Goomy",
+  "hash": "9001cfdb49b68912bdd91845839d9a6e6e3c960a592e0c59e116175d9edd2310",
+  "seed": "g526CVk3IahzYBof"
+},{
+  "user": "Machop",
+  "hash": "589d5ce8e70353f0609d71cc08084f358195746b9eafb138374cecd7d47f26d8",
+  "seed": "j79BuKwCrx2gw1cj"
+},{
+  "user": "Krabby",
+  "hash": "f595a7811d73d2343043d0e2d18962525d5ce1248dc5fa3f2893810ab1a3f586",
+  "seed": "APmaMULvTI1pRiMx"
+},{
+  "user": "Cinccino",
+  "hash": "f059ce9f742ad8a4c4c2226b65ccf43682e23bf6bdb9bdab25b66f886bada788",
+  "seed": "97HHSPmtzQhB93A8"
+},{
+  "user": "Magmortar",
+  "hash": "ddb3d99129b79fd271a7f0bf0a1cadc7d75e5f0d3cb793f24210dea6bb6d7754",
+  "seed": "eIyx4B7plBqKQbvC"
+},{
+  "user": "Stufful",
+  "hash": "bd14a6f382e87ad6269c5e31408b7e67f23608b14c7e5bfaa01bc02bf981efac",
+  "seed": "6EFbtgvAkGbJJ3f9"
+},{
+  "user": "Snivy",
+  "hash": "057d12df7bb1cfb05a219ce49344fa437a8016c139f54664bc929699c2d675c7",
+  "seed": "jFvMJWstCnI6g0mI"
+},{
+  "user": "Lumineon",
+  "hash": "983d7a616cfd44e74d1c74510922c88bb5771f828eb37b11635fabc8a50e9850",
+  "seed": "i6VZrzYwYRqQEW3Y"
+},{
+  "user": "Seadra",
+  "hash": "15d309f30485022b0a9ee5d736023610008c913a9c5226d8fefa0648f54687cb",
+  "seed": "W4KmJhZRYiSTWRUO"
+},{
+  "user": "Rhydon",
+  "hash": "ee38a68f9b5859453bc531ed50d938c6180d9fb3ba972975c45ec5d5ef04e744",
+  "seed": "KixgmC094mGf9awn"
+},{
+  "user": "Darmanitan",
+  "hash": "b38d55a802c071786dbd101b90538ee49af85d18ba4df13e719be8c1ba52ddec",
+  "seed": "yla5YSgtFvJ2CHtO"
+},{
+  "user": "Rowlet",
+  "hash": "d849f8dd2c25d47adc9fab19a3203eca02b66cace9d481dae33f98992b37dd1b",
+  "seed": "QCCkW6opKcEA8zJO"
+},{
+  "user": "Toxapex",
+  "hash": "cff3878464a7e30fa23767b6991de083096aaea7aa8146f348801d6905cf9959",
+  "seed": "WnszfqbFanOcLmuc"
+},{
+  "user": "Whirlipede",
+  "hash": "bdef97f30bc89bf3aced8b9eeb0b1808e94891367a003e4ac889117a8c2e4bc2",
+  "seed": "ZuMRzs4NX8IkJSIJ"
+},{
+  "user": "Ursaring",
+  "hash": "ce4cfc52f66a6d472ccd895391b8aeb6548ae23a71a1ad5715ba4ffd988d9668",
+  "seed": "AUrnuEQmevYVWS6r"
+},{
+  "user": "Yanmega",
+  "hash": "b7d5355947247354c5b02fbeb210c4b71d4d120ee0878f363ba25995b3093fea",
+  "seed": "Petj1ipplcVCvCj3"
+},{
+  "user": "Pidove",
+  "hash": "a378458b6c4afd1c6db87c03ecc51ce818e1626cfceaf5871f34e89ba103aea2",
+  "seed": "hWrvfDjMHqhsGYR4"
+},{
+  "user": "Pidgey",
+  "hash": "120800f2340248fe665c263433ffb887a8c22e4e290cfb90281470b82eacd7b0",
+  "seed": "FmgmQ0FqjQDf2Qt9"
+},{
+  "user": "Poliwrath",
+  "hash": "b7d40e5ec5cb0da34b8f8066dbe3371c8f03905c516b5bc8be072836debeb08e",
+  "seed": "chY63ZpGiDkyxlhG"
+},{
+  "user": "Froslass",
+  "hash": "7d6be22c7f301383215832955a5e725fd489fdb90cb176044d9d2dc803df8617",
+  "seed": "lciBHx8sux0Itwzs"
+},{
+  "user": "Farfetch\u0027d",
+  "hash": "3c0b2edf5fc0f030c8b55ff0b4d3d1987bd0acdfbda59f4382096b0da06f3fa5",
+  "seed": "6NWbUguzl6AXrR3C"
+},{
+  "user": "Dhelmise",
+  "hash": "87c985d36090d7f2f3b1224269e6c1a94496d68aa2b73a66083993feb436867d",
+  "seed": "yORzjM0g1wilAQKd"
+},{
+  "user": "Clefable",
+  "hash": "4860084975e913c3d6a8acbca09d63adb7716b4749011cce14fd191a8d2725b3",
+  "seed": "29h4qBEcNqcAgmm9"
+},{
+  "user": "Eelektross",
+  "hash": "0e9861751b94a2fa4278413b34155130cf888aca8f4af04eb90cb691d57c3360",
+  "seed": "fuw3KvdrRWPI6aR9"
+},{
+  "user": "Blaziken",
+  "hash": "993a62a3171c1023ce058395b78dfadf4167dfe459859eea113438bb967a23ac",
+  "seed": "vy054QACe2ezkU5B"
+},{
+  "user": "Solgaleo",
+  "hash": "aab988b259a8b08263ed6809cfc9e2e6bd5432a3add3f09c760569b2948014a4",
+  "seed": "FmSxwU5C60ckClIs"
+},{
+  "user": "Vulpix",
+  "hash": "6f450e9d69accee801c9e3ba8202d1c487ad35dc11202a57588f153685afd127",
+  "seed": "igwU76bSPENPg0N4"
+},{
+  "user": "Baltoy",
+  "hash": "42e20ef24f6d3b9f679ea8a7aa0a95ebb670430ff71f1a6731063b7e56cffc07",
+  "seed": "PqolC5G64qCXDn48"
+},{
+  "user": "Gulpin",
+  "hash": "aa6e99bf8e575e29ff8e8d96252b964612279c65c108eadccb72e34a87584038",
+  "seed": "rHy5bn6UxrmUPhvI"
+},{
+  "user": "Pachirisu",
+  "hash": "6698e38e807859b4e1c80dcc3d70a2f0a8738d41e669137c77421380e3c2a555",
+  "seed": "JKE3sSGcpS4G45P9"
+},{
+  "user": "Shiinotic",
+  "hash": "94beb54b2dce029947b41cc1864e35c9e3a9fb1b96f22567ee8a9baf3ed4ba8c",
+  "seed": "vJpo7ccXwvszh73m"
+},{
+  "user": "Trevenant",
+  "hash": "8e4fbb872f8f7cf87d65f6a3988888fcf6ab164c3bb39bf384312475ffcdd034",
+  "seed": "xYJaRcnAPUZTgD1r"
+},{
+  "user": "Mamoswine",
+  "hash": "18c53b4d39316ec0030cdd083c4d15c1bb555cae1d7a25e1b72cb70da4ff4f48",
+  "seed": "Ex9szazEzCj5Jakf"
+},{
+  "user": "Pelipper",
+  "hash": "538dde11662f0ee89f1cee3e6fbc079f633d4d260db36910fbeea922d2d042e1",
+  "seed": "zflv20re4M3qOaKH"
+},{
+  "user": "Quilladin",
+  "hash": "1cd33f40720ec06472f0dc0f539f92beb0fdb11f67eb8f2af36f7dc6ac6cf216",
+  "seed": "st8fUXwqtIaI6P4R"
+},{
+  "user": "Tynamo",
+  "hash": "2316ea5d783d8c3df59753748a40ac57966a5b5932d85b556e650fc2d9ccc969",
+  "seed": "tC58XgqQ9l9BBRbh"
+},{
+  "user": "Watchog",
+  "hash": "05a45dfa7d8eb894a84d395344f2deb30e07bd0100dd9c8b09e95601adf3585b",
+  "seed": "ywW8eDIgDug3LRyc"
+},{
+  "user": "Wailmer",
+  "hash": "299fcda28e796bc7d4cbdccd1c3cb86f27312f682afac6d9489e7bcc9610fdad",
+  "seed": "xIfvcqitMV9UWSr3"
+},{
+  "user": "Scraggy",
+  "hash": "590180e3ca7896010e01ce2e7ff6b3c507d7f07a3a6c56ef619a1bb44321cef6",
+  "seed": "IngbnbHkSCfACbgw"
+},{
+  "user": "Espurr",
+  "hash": "8799ee37008c88be815baf0db8921dbe03f43a0e0aedc1e4cfce689f82209227",
+  "seed": "WSrrY6GZwZIHsxHp"
+},{
+  "user": "Vespiquen",
+  "hash": "10616112a0d8d2b86cb2df05ef707fba4e6080a9ce08785c1426706dc09b4691",
+  "seed": "w5YaYwOFYdP5Cp54"
+},{
+  "user": "Cherrim",
+  "hash": "95e4acc0a4ee824401a86de15219fd4c03d5d561deaf32eb2b29c069de30a3e6",
+  "seed": "MutBpVSq8nqxs1HP"
+},{
+  "user": "Magby",
+  "hash": "cb00035fd53bdb75ee186b063328d4c70a1cf9d1b529bb70249bc9a3789749b5",
+  "seed": "IRbsWVA6nQwQVEG9"
+},{
+  "user": "Reuniclus",
+  "hash": "97703935ef82c351a0d560122f69b1245ae0acd9cd33bdfb3f27eb7ad483bec4",
+  "seed": "GUqcVu3m91iP5X3W"
+},{
+  "user": "Diggersby",
+  "hash": "f873e2d3ea1dcd50681631a2003c2e2e9643c14252fc13635fb43d96862343f2",
+  "seed": "iixvO2ofmBt1iEJ4"
+},{
+  "user": "Lileep",
+  "hash": "e1591ffea96c808cbb8f16143261d038b62e7fe7107caf7e06d7411f6ab66f6d",
+  "seed": "b8RDu4JLdmpxUNof"
+},{
+  "user": "Scolipede",
+  "hash": "74460d980ec71990979527612da982c76a384de6a58e63cf7787569f26b9c761",
+  "seed": "6IoCNQRLP098FG5P"
+},{
+  "user": "Karrablast",
+  "hash": "5a4c242e3ff14235494c9e66783aca94d161f60e4c834d6f6b881830390ba637",
+  "seed": "CpwctjyptSNtOWrh"
+},{
+  "user": "Starmie",
+  "hash": "cfc1587e3fe54d6185310efcf4660f30bd8848fbaf74a6674f5c2891b04ee440",
+  "seed": "ttZ9EMI7qZlOS4p8"
+},{
+  "user": "Sneasel",
+  "hash": "3aef281f48bb59287780b670c59903f005468826eb03db810e461e1b06f6089a",
+  "seed": "M8ZyOoLz8g5mGE2J"
+},{
+  "user": "Bulbasaur",
+  "hash": "68b4f284679ec68ae6f992295930437473520f5806097918621ce4e80f06aa48",
+  "seed": "hNQGaxd6wfT3WWLW"
+},{
+  "user": "Hariyama",
+  "hash": "4765001833b6f2851b7aa7505f016fe0e819be07b6d7801256c85f2c62778fe6",
+  "seed": "5XFykLF5Zu21IJiW"
+},{
+  "user": "Manaphy",
+  "hash": "e457d9054b6900ce013b830ab8f21cae8e14f567d887e8cbd4b8171540a3e6c3",
+  "seed": "lhLTmAJu4FVfPur6"
+},{
+  "user": "Vigoroth",
+  "hash": "b7fd39604ece48276df65039196a9d5b6352c32a65440fb0b21f1685c79f01af",
+  "seed": "8uDYpEnVR3FgDNar"
+},{
+  "user": "Infernape",
+  "hash": "a947a73acd7cd4fc12cdc19a61ec89bf4e0ba421864b5637bfe773f771c3fbdf",
+  "seed": "1DiEX8WokqBbSnvH"
+},{
+  "user": "Grumpig",
+  "hash": "288a40eebb351ea02c2afeb5142aad4a169649d27952904c10f26bad2c1fc00b",
+  "seed": "AsnQOvMfNbyp1pb6"
+},{
+  "user": "Victini",
+  "hash": "003c06aab04695c76d7a5672921d431f32b4587d7df4bfab9f98ce83c3c239b9",
+  "seed": "xiJqCv9LDFlNBq50"
+},{
+  "user": "Bellossom",
+  "hash": "dce3c4c7f3ac0b3fd5af5b92c95f1512caa37d1dc6668afa4c2d1b6742ebc5e2",
+  "seed": "WhXJzeW5YwRBI2oX"
+},{
+  "user": "Happiny",
+  "hash": "51e3402e675fa6ad910f3812d10dd0e78e2ae38f189cb1683cc047c867db2d30",
+  "seed": "V7fDAdFGoP0mvbLT"
+},{
+  "user": "Unfezant",
+  "hash": "84a0a04ff4b35b2d2970a56fa73fc3c148423cbde70a2cae74f8c50e6078bede",
+  "seed": "pVk2GpijR7iE2UcQ"
+},{
+  "user": "Lairon",
+  "hash": "351c8c78fb328288a8b1c61c0aa69681fb8b09100ae0c52ca612cda6002f52fc",
+  "seed": "l6zZt2WL2kolJs7J"
+},{
+  "user": "Braixen",
+  "hash": "d68bceef52907f290eecbf51166e9f38d5e86858a035e1654100e847453f6cd1",
+  "seed": "24LEh0HozaxXA1YT"
+},{
+  "user": "Paras",
+  "hash": "69c29d5d0f92401ae66125e2d0e4184f32b0f3d68ea3733b98d6a514d1f54775",
+  "seed": "UjswquOh4WbXS5MV"
+},{
+  "user": "Lillipup",
+  "hash": "8f9512e53169db99c3dce1253de21686f172b4d325a96f25b881c24d6cdc9ef1",
+  "seed": "WHjAqvHZku4O5MFm"
+},{
+  "user": "Garbodor",
+  "hash": "be4d3d060e45ccab9ab990c23d06fd2f0796ded93310a8caace96688c6a9d665",
+  "seed": "JXhT6KBIoXfk6hc9"
+},{
+  "user": "Octillery",
+  "hash": "0a0c0d68d36ea670236c3fceb5d18992b6fe9c8b6a9b9cf9538d6fbd7ab94f51",
+  "seed": "uGJobK38A35WtSuO"
+},{
+  "user": "Bellsprout",
+  "hash": "15b15e9db4b8d1ef54a0ca40435ee298cbc7c20263955964451a9e7276ad0ae7",
+  "seed": "3W5YPRldSACFBZRK"
+},{
+  "user": "Drifblim",
+  "hash": "fea5861c14fb2f9773e927622f1bc7ecc9ba440e630c8f446c205de49d615b43",
+  "seed": "6V8FcnDtg0EbB7UE"
+},{
+  "user": "Type:",
+  "hash": "b2d25c7da685a8ef1c6c897fcf3ec1e79c5041f2cc9a26386debdb25b43e3394",
+  "seed": "Di49zOuxLNMbL6ID"
+},{
+  "user": "Boldore",
+  "hash": "1eed5003e5bed82fd2f821a84666c21df88d288735aafbb851bc302e1dcfb19c",
+  "seed": "j7xhpo7vdDraropi"
+},{
+  "user": "Florges",
+  "hash": "ca6a30ea4ae874461a6192483400828f155471086ff8b95bd39006d302cadb44",
+  "seed": "XcK22VS9HFhMkE0i"
+},{
+  "user": "Cranidos",
+  "hash": "220910f6ecef9e5058763ce2cf3441dba18456ece2cb928e6af04e8b6f572c6e",
+  "seed": "Tg7L5MTmSv5QjcKB"
+},{
+  "user": "Kabuto",
+  "hash": "06a659e361528a413f187c74f6ea8526028c397033d8e26dc95daf6a64b77e75",
+  "seed": "4Ar8LFUrqjs9zAXl"
+},{
+  "user": "Porygon-Z",
+  "hash": "4d6a2cdb0db3adde17764594b819e3564d51baaee5242c3d23bed306f7b04f90",
+  "seed": "3h6DYW6mQLBKDWox"
+},{
+  "user": "Kangaskhan",
+  "hash": "46438ea0cb84f4ab961eec7584cc88458aaae6b10ceb4405dee776738880d64d",
+  "seed": "YhhQxt1dMOO9jId6"
+},{
+  "user": "Noctowl",
+  "hash": "5ee5980b6332901709fdf5ff6754c93f967f18c4128f1cf6d942ab6790e86052",
+  "seed": "QYoHenlVItAcpTdB"
+},{
+  "user": "Vanilluxe",
+  "hash": "baf8db2462327ff6bf2df26e9e99fe938133bdfe8f0507f47e84f063ecb52c85",
+  "seed": "4LZQkxNlhgKKMJJd"
+},{
+  "user": "Sunflora",
+  "hash": "f54d7aa15b60695008c48ee018d4af16e0440f226cefaca3e2b5dfce196eb711",
+  "seed": "tCHPq6HdPIt6itqY"
+},{
+  "user": "Lugia",
+  "hash": "2de137fdb35f01ae9bf6a56095c787ab084cefcd4ac7f0621d79a95156daf120",
+  "seed": "1Gc2w008ig4AuufG"
+},{
+  "user": "Latios",
+  "hash": "2e4ffa335d3486ba5d5e248762ae25fe78e2bf275cf09da3b1502dc4bba90e5a",
+  "seed": "hGAuzK7GIznFqsgP"
+},{
+  "user": "Spoink",
+  "hash": "eaafe956cb540118636fe018f68c452ac1f428c7c434e45b14d6a96b8ac4f705",
+  "seed": "ot15zPOIPpUUA5ur"
+},{
+  "user": "Slowbro",
+  "hash": "66cb752a3eb9ebd99c252731402ce9000376a6f630f2a98bfda322c4f5b0b7db",
+  "seed": "woxwoCRx0fxY4yNB"
+},{
+  "user": "Gastly",
+  "hash": "f0c8e1c70ef4d7c1ed1162d31198bd8059bfba47b5d5be628e45dde9d498bbdb",
+  "seed": "L0c4zWvDRJx8X3F8"
+},{
+  "user": "Zweilous",
+  "hash": "5db9fbaffce735bdedaa73038a1262bc9605c56ba04b866904a40da60bfe9613",
+  "seed": "4f0TGoQ65Ji1aArn"
+},{
+  "user": "Keldeo",
+  "hash": "d9d0bf13acaba6265c963b7bc9ba72af0382fa6aa02d05d5ec3b2663636217d6",
+  "seed": "6V4apGGNSSevfcjo"
+},{
+  "user": "Eevee",
+  "hash": "0ee486a1c6d5c6bbe4ae4551e35a311d0a5820a568ec2d26c87c3f64546e4970",
+  "seed": "iSs6wewB9XOJQ0mG"
+},{
+  "user": "Smoochum",
+  "hash": "58cd755530ecbc32de99ce77bc2051585bdcdf4b5c8672fd8faf1213007d2808",
+  "seed": "tB8ZOcjfxqNXhhnP"
+},{
+  "user": "Caterpie",
+  "hash": "a378f2412424c581610ae5499a4d61b8cd65869d48eae0c8b7eec6ab68c7bd59",
+  "seed": "CDwPCLY1XaIqqzBl"
+},{
+  "user": "Luxio",
+  "hash": "b83992847c070957f63129cc355b1b32a27e2d93f6b0c76abb120a119c5351dd",
+  "seed": "lsPSMas28Tw8Iimw"
+},{
+  "user": "Magcargo",
+  "hash": "e1978a473e4a0a9e3d98e00289229fc5a42ad843ca43672e66dc58446495a09e",
+  "seed": "WjPZxO5Djm2QkdCv"
+},{
+  "user": "Magnemite",
+  "hash": "994b2275cabc939edd9bf22c1ba6f68c8bccf444b72cdb62579ab1e11cc009cb",
+  "seed": "0jf9ZJ5slZbk7bXy"
+},{
+  "user": "Pinsir",
+  "hash": "cd82060c64be5a8e95affd0220b2f9c30ca9ebe6e83ab1d8e919b7b7fc6fdfae",
+  "seed": "uKtM3tzQIHhekthW"
+},{
+  "user": "Monferno",
+  "hash": "f1019901e5a9cd57ca569f689ae6836cdfff65c765493b2019bc2a91237326c4",
+  "seed": "eF6X06YSoVvewdzs"
+},{
+  "user": "Genesect",
+  "hash": "4707cafc0c44bcda2479a2435c5e9e9ae4343e42df4d85a888307bbee996db6a",
+  "seed": "xwoLyF25mwwtIRnL"
+},{
+  "user": "Claydol",
+  "hash": "074bfe4776feaa919900cdd3dc97c05ba3051e5096c902d2ecf20526935e89b4",
+  "seed": "sKnW4EstHh9sbyUy"
+},{
+  "user": "Alomomola",
+  "hash": "330e4f327f7fa285d94bc55e6b236fb46c6b913ecb8ad073d9decf5cede3deb2",
+  "seed": "1uJYQ2h40KO2uthK"
+},{
+  "user": "Magearna",
+  "hash": "7e3058ec5d5920b0a8d3ef8a18d44f91a7de6173d1fe19336d4f5f4334053053",
+  "seed": "JpXWr5l3n9zmFWa7"
+},{
+  "user": "Corphish",
+  "hash": "83bb4a40407a610392332027d3d4f4c7d294e721ef5048b5c90b4856115b221f",
+  "seed": "ZaQR6ohTwAcNQL3G"
+},{
+  "user": "Persian",
+  "hash": "cfe5a7a2738a2fa41b740c52353e3469db92d07bb82f7a2716bdd552b9d95050",
+  "seed": "2vkxI4KCmaOu1fsg"
+},{
+  "user": "Solosis",
+  "hash": "999c52e875cdebee4e500b15b14b6b111dfe538849946414a489188cc304fb8b",
+  "seed": "iJ3kUGcjE82MZjXp"
+},{
+  "user": "Pikipek",
+  "hash": "c79bd640f8e7f4047a8689abdbffa8ee4b4a3736ca36d08082b2ddf35d1aadca",
+  "seed": "mr5jLgld3AiFVlKM"
+},{
+  "user": "Terrakion",
+  "hash": "709e39e6c970714061ae1d250a05ed0818569396a3fcc881bb3179f9def50e13",
+  "seed": "wLTX1P5Fe0EeiEKT"
+},{
+  "user": "Piplup",
+  "hash": "65d75a8b26ae4c55ac83a1b50f1e7bc7f8c9b9f3c5181b6794a798da14f6f39d",
+  "seed": "1YxdkHlQexS5aG5p"
+},{
+  "user": "Lanturn",
+  "hash": "49af895e917a02ba7f18e8a4062a5c984cf841c10f328bdde9e729cde2c38ae8",
+  "seed": "Cp1dpCuh5u8Kzy0z"
+},{
+  "user": "Crawdaunt",
+  "hash": "b98185d69da543e8bc06fd7d5b139c7a893271ba9b2188b0ff51724f97b49dd5",
+  "seed": "rxhP4Ey39QGM22sq"
+},{
+  "user": "Galvantula",
+  "hash": "bdaeecc755c72d74d21d33a1e26b48ef69632eddd1a8615ecf96e083ebc02adb",
+  "seed": "Wr3FRjyLsb3fY6JO"
+},{
+  "user": "Dewpider",
+  "hash": "a4454f4bb610bf30dd920af5afc650a3c4dfad72a8a63215a9666b0743f88dd6",
+  "seed": "27h5vxU3w3Kt071O"
+},{
+  "user": "Lombre",
+  "hash": "c392d08ffd692434dd504024d4398b9f82a1f3799c6fb9b7ef530e6af68cac4a",
+  "seed": "Wmfix9M1dlVDjLX5"
+},{
+  "user": "Jellicent",
+  "hash": "ca78c7ff5343a804d72b4f38607ef12a8ac4d31c144078ad7212a9b9d096e27c",
+  "seed": "KC8ugjfOJoTxhsLg"
+},{
+  "user": "Xerneas",
+  "hash": "0d41f9e4982ebdcbc6c71d91e78d9de70c130c7d34356c024c0adf35b5d2160a",
+  "seed": "QkZcGh3D7JR2uGd4"
+},{
+  "user": "Steenee",
+  "hash": "0dbc335dc0611d69d936e6b3168bf2746751c65f5fd6baa418ed583174dc95f7",
+  "seed": "6WxkizDhi0yizoIp"
+},{
+  "user": "Trapinch",
+  "hash": "babf8cdce45a6a7cb3030cd68770006280833df3a491e622e1d2e82411d77fb8",
+  "seed": "jOOjDrjVIdjlA7aD"
+},{
+  "user": "Makuhita",
+  "hash": "5465d6e2fa296c7ed82c369bf45c14c5dfa2829c560e01cfb3c9a55ddcf03674",
+  "seed": "ICfoux7PyRmGI7dj"
+},{
+  "user": "Shedinja",
+  "hash": "da02b4dcda1976b18e6fdff96c5ba76c7611f27d6c8abb8e71b28a6650f7ae5d",
+  "seed": "HisiNSLJcWsLP3Xr"
+},{
+  "user": "Horsea",
+  "hash": "f333504a2619fe7b3d6b04ab545ed1e7a6fb85c8f52a2ecfeea0b0951cd2a39c",
+  "seed": "lMObOMnNvdSskmA4"
+},{
+  "user": "Salamence",
+  "hash": "c836403559fc22187951e4e7d76ea6d9cda39f1be0f25a2d991b4c4efdc9fcd4",
+  "seed": "y3wWiubL2nWkcbQs"
+},{
+  "user": "Mienfoo",
+  "hash": "c3bc2e0e8494f5a05be19f107523ff0cd75a302611c90f3ec2badfbe9076bd99",
+  "seed": "5h3ySTmnwx54RY8F"
+},{
+  "user": "Snubbull",
+  "hash": "f82708acf2c8f37763418895cd7aaeaf6b69435c54fa47ecc050b5e8f5c48b42",
+  "seed": "EXv2PPCdNS0HgFiP"
+},{
+  "user": "Klinklang",
+  "hash": "97ae252ec4f78f2328d634eec2179fe921e1cac8176b90b8b0cc0f9732a513f7",
+  "seed": "KbBPZtKN3wfcjVUa"
+},{
+  "user": "Lickitung",
+  "hash": "cab335f32043ac3f25a591893da102f4eccf7a8cd3bd464575b66a622182a978",
+  "seed": "IJAuPmcwrKOgoMXp"
+},{
+  "user": "Remoraid",
+  "hash": "1ee263c97473edd31c687e9b22f324094f4730edbc28a0a137396289dcfb5af5",
+  "seed": "Jh8pWhj48OFtR2Oo"
+},{
+  "user": "Beartic",
+  "hash": "a7f89f4434dd3ed5143a094ba5b8523f90d0cad9f874fbc6b19bbea3da1473be",
+  "seed": "c2caiaCpcckCFOA2"
+},{
+  "user": "Quilava",
+  "hash": "9226fd463077cf5a64fad709fc9e18b75290fc943c9e2c9a0e364e1a8e5859b5",
+  "seed": "ynGVNnF7fqY59LLJ"
+},{
+  "user": "Hawlucha",
+  "hash": "dbaa5be12437b5bf1e2aaecce6aa7a8c2cb4d1836619cd4a65e95ddea44dac95",
+  "seed": "6l5EC9I3dYxG9Zpq"
+},{
+  "user": "Porygon2",
+  "hash": "a702c66f4c60a23bd5bbc815ca4f390e01ba8c4730659bedffe3d475ff8ee7d9",
+  "seed": "yviF02psnoz8YVn1"
+},{
+  "user": "Buneary",
+  "hash": "3bfd33cf4ca2cb96b5228b60c7d8237cf69323accf4298bb25b6c9e3004f410c",
+  "seed": "DIkXvqWtWaK6VEa9"
+},{
+  "user": "Ariados",
+  "hash": "f798d7ac593f5f732cf3f93b4c6f91c0a01787b3b87942d406c9c054086b7f01",
+  "seed": "mo44n5drQSy4NZPi"
+},{
+  "user": "Sceptile",
+  "hash": "f56123659197db108cdd21cb9f12e950e8ec312cb851e0f05a8aeeadfb06fbd1",
+  "seed": "mAzotj06cMNoG0X0"
+},{
+  "user": "Yungoos",
+  "hash": "b9d5247c09a8d4c69919671b6c4d4b269dbdbc3456b1e79dd435844b08aa7f49",
+  "seed": "QrU8x4mFyBnk6q5L"
+},{
+  "user": "Froakie",
+  "hash": "ad69d2bc3053f8e838318423c535838a77f834db363bc52b95c62f8cd75c3e8d",
+  "seed": "Idn8JYOaaDy983Di"
+},{
+  "user": "Avalugg",
+  "hash": "70804d1a380a855499d8b87a17d728f1bb0724daab39378bb9d03eda19f03a7d",
+  "seed": "yAWrYUJFWP7YEWPS"
+},{
+  "user": "Volcanion",
+  "hash": "827d854bccc5b9651a2cccfed7da2f77461b2ee354cb61ae25ee55b7c02b8f9e",
+  "seed": "iAgEvuNUVCPUPCK4"
+},{
+  "user": "Kabutops",
+  "hash": "df9089f41363855872a0c1239ff2ab34c126783f1dc8eb64adb74e8504f684ed",
+  "seed": "Yreszi1ajbJbQTyV"
+},{
+  "user": "Tepig",
+  "hash": "e238a8f554a90f1b9c492b2c5ff2ea4d97d46951bfaf8785d619f1328ad3a21d",
+  "seed": "foSEh4orrGT1Z7uq"
+},{
+  "user": "Aggron",
+  "hash": "54745465255afebcfdef5fea903b2e8903372d15f40055e345e3ac6288a48c79",
+  "seed": "Rc6SKSmKqGMoU1yj"
+},{
+  "user": "Hydreigon",
+  "hash": "1e536e684081956003ce7d46763fba50767db40c1ea0d7cd93e3e4af518f66dc",
+  "seed": "rXsSsDZLcVo2IW4L"
+},{
+  "user": "Bergmite",
+  "hash": "634efb884e66a3fdc17768c3b32f459116c92a1c239506fab46ddf772b7ffe63",
+  "seed": "e1JffrYwjqLrO64s"
+},{
+  "user": "Darumaka",
+  "hash": "18769f06a3be3c71b4a6fa05800b27bd2caa1c8b8b8612675a8d8c7dacb41e56",
+  "seed": "P61JnRD8ws9sshjN"
+},{
+  "user": "Cacturne",
+  "hash": "0a12f617dc78b341b76fc8c01f481bddc571092fc88f047c226e809e24fc88fd",
+  "seed": "N7oD0zRiVkpTuJWm"
+},{
+  "user": "Volcarona",
+  "hash": "e54fbe08ba4c7d67650a9183b9a49f7dc117bc8a2119ff677a93a9fc9b7bd9f3",
+  "seed": "sBUrVGLvg1gSFImy"
+},{
+  "user": "Mew",
+  "hash": "e9340ae26af8a25553789be6f5de5601f7746faecefde2e782c79e9f5e7c599e",
+  "seed": "g9hZm8fYXoH5F0T6"
+},{
+  "user": "Teddiursa",
+  "hash": "2ec8b0b2e576eb2bc679dbee369b982e6c11fefaf022ad8b278b082605b0975e",
+  "seed": "o8Sagu5lj4P01svG"
+},{
+  "user": "Alakazam",
+  "hash": "39c57ae0d45f9a00ddb88782d31af47d6072385da744258cecba2cc4118b40dd",
+  "seed": "T8OjUC5TMSxOswNd"
+},{
+  "user": "Nidoking",
+  "hash": "e9a906b45c55955565aea026cf8c04349e587b7a48e43f02df59204bc8407c7f",
+  "seed": "U4fGNOLS3VXyTv1t"
+},{
+  "user": "Drowzee",
+  "hash": "f34df8b0f166a797892ac17ea5062500cd11d6457476a16d52d879dbcebe411a",
+  "seed": "fxBGn1WdXljb3LYi"
+},{
+  "user": "Ribombee",
+  "hash": "470b3d2ba0ad8dd3d33b52d90c93a7f66e0fc27a5373bfc12c292d21c34ee918",
+  "seed": "3C9jdNsVBOGkI84j"
+},{
+  "user": "Tentacool",
+  "hash": "3fb3c8b3d1c1270052eb7abd5cfddd5fd8a37b58b1e3871239395f68a265f0dd",
+  "seed": "jTSycqQYwfAc36Nu"
+},{
+  "user": "Tyrantrum",
+  "hash": "2bd99490f849b931eba1677fd1acb63785a99f5338e578d21e8d4a8d239f2f3f",
+  "seed": "Pqm6YrHIEAATSTaC"
+},{
+  "user": "Carbink",
+  "hash": "a5dbb3cdbccfc9ff22fc0b832505ecc7220aaefc8d54292411a0f0cd78898981",
+  "seed": "bVuRygBMg97AEbFc"
+},{
+  "user": "Lycanroc",
+  "hash": "13bb013ea299a89c1d52871a13ac04a67b1bf9418b347e6e1933ee6822903641",
+  "seed": "5awpU98LLPCcwhpK"
+},{
+  "user": "Cradily",
+  "hash": "6f9ceeae8f137001e0daddc1029c9b4ce268154b2cb8f377e1f6630a0f9e3212",
+  "seed": "2GEfj83ptlcmIotJ"
+},{
+  "user": "Lickilicky",
+  "hash": "f54d1494a30a34dadaf9ea87f114726c2646f61cfe4b75f1ce4199c006f8d66f",
+  "seed": "80XGHLJ5BisWL3VU"
+},{
+  "user": "Ninjask",
+  "hash": "8c62779644ab4dfe5b18752ef55b72123511c68d23b293aab203abffd0dc016b",
+  "seed": "153Z8esYTo5MKYaI"
+},{
+  "user": "Ambipom",
+  "hash": "26d131df18f3937b819a3237151084daccca836fc98edd1268d6478d8f89a736",
+  "seed": "dwYIaP2xZXYntiRo"
+},{
+  "user": "Togepi",
+  "hash": "0bde93586ddfa75153e354c0d3dec1f892c204a515915d0a5eacb191f0b5c12c",
+  "seed": "N5mpX7yPqAgt42qR"
+},{
+  "user": "Dunsparce",
+  "hash": "2272dc0e639229439ac3059bed2bb1a0fd385605ae48e736d6a4fc6d070d73a5",
+  "seed": "NNbwHbPtLGRZhrS8"
+},{
+  "user": "Sewaddle",
+  "hash": "c232a64bf155383d5fb27d040cb0994474ae27101e92a0076f8b61574eb4b781",
+  "seed": "gn4UO9jUrGpiH2Wf"
+},{
+  "user": "Petilil",
+  "hash": "415c704bb720076c9b59f8eab8c18a82959067427b85ff66deec2d7650ea8f4f",
+  "seed": "5H6WYs7BaCI1ARRv"
+},{
+  "user": "Fomantis",
+  "hash": "1c05f6d43b0da50398bfa870ae07a6bce8f2ec720416f4b673f3fcc1ab18f169",
+  "seed": "SehoXtpA4MvsmBQS"
+},{
+  "user": "Darkrai",
+  "hash": "4f36f8940222963ab68b1349fd5b5e368c3766114574a27040dfb1871ff3c5fe",
+  "seed": "UyTrfd5Kw3AaC5mo"
+},{
+  "user": "Cutiefly",
+  "hash": "e336576051a0855155adacfe1f68efb07a65ce8e5781e6b78d4dc73483247162",
+  "seed": "TQ718BXI2OXAJNUh"
+},{
+  "user": "Sawk",
+  "hash": "8c3c3ec44d2f7273de399be14e42c3222a1b2fbf09affc9f2417d07a6aea9779",
+  "seed": "rq6Quz8zf5IVipid"
+},{
+  "user": "Nuzleaf",
+  "hash": "b4261d277d46457fb04fdaeb55445fe556baad96ddc4337983af5e8192f2234c",
+  "seed": "nd1i2WWaRgWbyJCs"
+},{
+  "user": "Torterra",
+  "hash": "b9eaf50841be6a4432298c1d9cef65b5d84528cfe8ab4c5451ebde614082086f",
+  "seed": "wZtwTKR9zGI9pO8W"
+},{
+  "user": "Smeargle",
+  "hash": "bea9fb4f6c761d745e40a224c57c84ae7e1f5064f29be657147bc3b930fc2867",
+  "seed": "6ReCy2GUJbzgMlHH"
+},{
+  "user": "Emboar",
+  "hash": "bd24373b563e9996e2953dd6b853c25c2c7aea68f2ac9e3f9a5f7df0cd047856",
+  "seed": "FOPnJ5J0iZSQhuN4"
+},{
+  "user": "Aerodactyl",
+  "hash": "1f208e8d222f16f359a1cc11ba541d8377247d65288d65130050ff975d6d54dd",
+  "seed": "XppYrm5kMYXWgzbJ"
+},{
+  "user": "Mienshao",
+  "hash": "86c2bb4fa472e497b8ec7782929eac46d89b12647ede684cf49725b8b2b57068",
+  "seed": "ncX4FLR2Cgqe2aFu"
+},{
+  "user": "Aron",
+  "hash": "cb2cceb43a31d14dfeee11e7ef299359d995ff2d5d5609122450c6f2439a9a75",
+  "seed": "k3iK5k459Ildelua"
+},{
+  "user": "Honchkrow",
+  "hash": "14d932501930d79be12fc72726f2d4c26ab181b5ef943ad061dc22b0b269802d",
+  "seed": "kN9CrRPfAnLLg7vZ"
+},{
+  "user": "Pupitar",
+  "hash": "9856bd0c168dcbab6a411b8fb7cf5646a42f47d8b0280431beabcce32e7193a1",
+  "seed": "FoV89bV926KXTwVx"
+},{
+  "user": "Minior",
+  "hash": "f3a38e24c555ce9c351ae2c825b76a7fcbf5a02ce9a59b57ef529a1c0c7f8fd0",
+  "seed": "pEeWE2Mf5uQObZxQ"
+},{
+  "user": "Golurk",
+  "hash": "39a25da2ae0159557c47b00c9e2b0b0b61afeef483e73cbe46c13bc07382ae00",
+  "seed": "dcnskWVf8F7OdaXa"
+},{
+  "user": "Scizor",
+  "hash": "bd61a319905e20c8f564020a0485d268ab6b7cf0f7c415ebbcd29c8376b35e78",
+  "seed": "yt1BIknx1DShdexq"
+},{
+  "user": "Fearow",
+  "hash": "80ce3eface82bb5a1d8a61869c5ed85d016ad0af56b49cdc5099b38e77a0a800",
+  "seed": "WwLMh1wR2cwcD8Vf"
+},{
+  "user": "Araquanid",
+  "hash": "dbc25995c996d5ed19cbba6e6f31f259a3b38937b0155f31a638505bf6f352e9",
+  "seed": "i7NL4Dg80z02v6iY"
+},{
+  "user": "Mankey",
+  "hash": "2e2c666dc86b9fc1a2b020369c7ddbf77e391f0d9656904688b39d05154e655b",
+  "seed": "2sbP15xWqwkR962C"
+},{
+  "user": "Grotle",
+  "hash": "86f44415756c4d42cbcd254956ead030d9c193581f335dc53a727a2d29445704",
+  "seed": "iqaJqZ6BYNrbTA7o"
+},{
+  "user": "Bastiodon",
+  "hash": "651fb744bfa622ff779fe3f26cb6986e005279a965c9103d585de0f30dc3c1dd",
+  "seed": "405EZjE3JG8RChcF"
+},{
+  "user": "Vaporeon",
+  "hash": "5f551ef0088a591c0c09c5f645176bdfc3135aa0865abd4db9fa9e4f71c6f33d",
+  "seed": "0goP0e7xzbDRwFED"
+},{
+  "user": "Carracosta",
+  "hash": "32de67dfd2fb3e0790551209ea4d0516bb6bc9f4a407da7368b2a1be3a6d548d",
+  "seed": "Xqz79K0F8bO8gcwL"
+},{
+  "user": "Mightyena",
+  "hash": "e5e569a356f2641e15fb94735c653d6564815caf421325806393193304891ee7",
+  "seed": "yFadoc8VBiHa5UHj"
+},{
+  "user": "Kadabra",
+  "hash": "82642cb07aeb65a156d9c63b1638d17cdb69ea5f5df129b82c1ae892097d43cb",
+  "seed": "7hM0qkxXsjOqyW1h"
+},{
+  "user": "Duskull",
+  "hash": "d3f21f0f9382b8620b5c0e580d81c9634d6126bc7dc12acd1ab66359fdc03996",
+  "seed": "IVrMG7eJykvuq0t2"
+},{
+  "user": "Huntail",
+  "hash": "4780e82fb59f096c3546245b40e3afc4e7a6f02f3e5ddfed5614920f87da656a",
+  "seed": "Fw1eBoYjGYWlowI1"
+},{
+  "user": "Conkeldurr",
+  "hash": "42dea119ed0d42e0ee21fbe7f7088d984ad32eef74bd1b5983609e5d0bc65a34",
+  "seed": "RIdbCZ4ioMJ9tCzE"
+},{
+  "user": "Tympole",
+  "hash": "0654efd691890a4c3069e8a60763f5335832ce3155b7f34213f028a33d71d81f",
+  "seed": "b1Nvwrwr4vkk4E9S"
+},{
+  "user": "Ducklett",
+  "hash": "b9647ac7d8502a4f775c90f197c7ec4fac0e3d57671290c3df084dfe63603cb0",
+  "seed": "6eOnpm8TinkXlica"
+},{
+  "user": "Plusle",
+  "hash": "91d7e2590aac2b3fb96ce12ed907f7d9fb7964708af093c7e303659491288e68",
+  "seed": "Sbp4NfEzlnCsGtyB"
+},{
+  "user": "Bidoof",
+  "hash": "86981d0d1a032e550cbd6eb8056a37ab3df7f4abdc564e32a05b62217a0b2e90",
+  "seed": "eOv3vPRzGBXwHmaA"
+},{
+  "user": "Zorua",
+  "hash": "4c885108e77b67e6f2e9e367c34b902afd909d6f290ab3cfb699006aea1c44da",
+  "seed": "t9lXEvbL3jjTKlvW"
+},{
+  "user": "Krokorok",
+  "hash": "32d7fc3b4cba024d2ee0635c80d34f1096a2b742731fb20e7af1944156d7f6fb",
+  "seed": "DRAILeSnifmWgMha"
+},{
+  "user": "Naganadel",
+  "hash": "5b7e188e61fddda96b0d7db4ca51a741867176236409f612c9a4846f82de6ec7",
+  "seed": "ZJrh3xsMuT4qZGxe"
+},{
+  "user": "Oshawott",
+  "hash": "4ae49e076deaa889382342ab343cabbd1c73011acd4da961e9b86a7d4d225d3d",
+  "seed": "OQVeMDztS9LQKd0N"
+},{
+  "user": "Cryogonal",
+  "hash": "7a2d5b6c17146b433f4428992f9434067d7ceaa55eedc6b0d2be6f2cc34a2d0c",
+  "seed": "04H903e9lUhY0YeO"
+},{
+  "user": "Metapod",
+  "hash": "d72a3a4117bec09a3bdb166c1b90086058b950697e3ca9e1f746eea934227e6a",
+  "seed": "hQdPPYyiTAFeqZhg"
+},{
+  "user": "Mantine",
+  "hash": "4e97136ddcf95c13e36f63ad8265e7d7afe56cd2623da964fe8ddab9ffeeb3d9",
+  "seed": "H3Y86NBiIbtFDSl8"
+},{
+  "user": "Pheromosa",
+  "hash": "5439439a11ee3ddd78c3fa8c1096d18bb87f8c3cf563b6ac38a6438887dacef0",
+  "seed": "dfgGGpPxYtDBNC0g"
+},{
+  "user": "Maractus",
+  "hash": "44d7214c0c70fe7c3320b3507f262c14f082242aa2bbfc0ff12bf23a63019a0a",
+  "seed": "TXRveXIqpKqlUVwD"
+},{
+  "user": "Jirachi",
+  "hash": "a8c884cf65bbb3cae2785f7087ee3dbad599096f358ab39f52eefb5f9d293497",
+  "seed": "rSDMJmLRYQZBhGO7"
+},{
+  "user": "Zebstrika",
+  "hash": "e8bc1dfeb82dfb4e30f63d8d9da4a58ed0d9d7ab60ea995afeb24a3ec145eeb8",
+  "seed": "wiETultS3YpZ1BIi"
+},{
+  "user": "Machoke",
+  "hash": "1116499f251ea11f50c3a705ea133ff7e0ceb572d035f62f143fa3e0e1f7c17d",
+  "seed": "OJhCCPG8Xb2uzUkN"
+},{
+  "user": "Swellow",
+  "hash": "3b4a379c3bdb502455c5585589379737de02fe434fe59f50e8e4b180c68dc5d8",
+  "seed": "LhTHZBz7i1rEVu8r"
+},{
+  "user": "Nincada",
+  "hash": "e03a05ab4b059ba5743e930923a1129588789d5865cbdf6268e3cda324333204",
+  "seed": "YCYdE0Sn26euwFh8"
+},{
+  "user": "Kyogre",
+  "hash": "667355841f90410378fc3434f2e039c63cc866bc39457424a2204dcd6b7b8da6",
+  "seed": "tKmyYkPjGN3JLEqI"
+},{
+  "user": "Binacle",
+  "hash": "bc82910b9bef078df20c5fefeb1b3a300dda4b45319c4b45ad10068c775e52f1",
+  "seed": "59scGfCN6bJvjQIH"
+},{
+  "user": "Nihilego",
+  "hash": "9f2e286c6feed4d4851f08074ac4fa7ce756303bf55a96706840acc0227ac870",
+  "seed": "1M6nfLebQKgq68xO"
+},{
+  "user": "Inkay",
+  "hash": "8eb32c9494289eb33a7d29832ee788c85dc71c06bc86b155db85931899482b37",
+  "seed": "kDLZxIxF59wHdMep"
+},{
+  "user": "Golbat",
+  "hash": "0efcb6b91fb0e38b3dce306a6c4b2062f6e67114dfe32cb21956d1637a924ffb",
+  "seed": "EpJo5fCO3zvGM4Dl"
+},{
+  "user": "Druddigon",
+  "hash": "2775e8dc46f254d66504de85068f5e0df19bc5603d5fe814d5429ee2a9b8bb88",
+  "seed": "7atQcRImev2YpSiU"
+},{
+  "user": "Glalie",
+  "hash": "864d56069c1897d3a8c81b2643be94d89da586d8010a15c1cb269f300442dbea",
+  "seed": "OTmIADImnVJlLMJt"
+},{
+  "user": "Vivillon",
+  "hash": "60d3ac50085f02ea8942052c2bada0143eed9ea6d4d4e59c4f9d88d9e1509c91",
+  "seed": "vD0tqenw5FGJdWCn"
+},{
+  "user": "Gothita",
+  "hash": "0128e79bcb2b0bd026508dfc4d36121549ea4274e8810359c33f003c04092df5",
+  "seed": "hfomQopBmAiqUHLj"
+},{
+  "user": "Lucario",
+  "hash": "cb5e55955513553f10dc1bfff614cd83920934a2e0f2ef0234bde54f0df96be6",
+  "seed": "Xcm52VaJKyDCNpIE"
+},{
+  "user": "Forretress",
+  "hash": "5b13a7942b0e342e4abcd4f43ba49bcb0eb34b2e2df3deec46b0b22f1a2262a3",
+  "seed": "S35X3NGhkn89QzK2"
+},{
+  "user": "Slugma",
+  "hash": "ebd1a17eb83d5d5cad7e3b5de6e1ad28b260a631cfe16dfced4a33069fa1542d",
+  "seed": "9nWJj9HUB82AIqfF"
+},{
+  "user": "Elekid",
+  "hash": "c5b4bde9d4e29b636b157b39c716e825bd0ff18d4a07b3ff7787527c1778c06e",
+  "seed": "p45NHb1UbbTVQ0dA"
+},{
+  "user": "Spritzee",
+  "hash": "94deb9ea835ea44bb164a74f20d37d56c3daf7940419a874774413f0d838f955",
+  "seed": "9pnGWhJf0LUCEJat"
+},{
+  "user": "Gabite",
+  "hash": "878339f3a523e7752450054645656e282a98ca89378106e61d85769d1169ca5c",
+  "seed": "C9GdyWQslLDjk0WF"
+},{
+  "user": "Palpitoad",
+  "hash": "04e5e7644f33e1102345db1ef59125b6e09859e3ad4f7503667cb2ac5133d0db",
+  "seed": "xTiEmVlyPuwZirbx"
+},{
+  "user": "Palkia",
+  "hash": "566ec153e563fc7578727f4b57d227119f1b178b77528eb2e21a291ca0ae0ffc",
+  "seed": "5NsPT3P1rJ4ZPYGS"
+},{
+  "user": "Scrafty",
+  "hash": "2818090b057648dc0f295d8894b463e6794ea9357ebdcf9f86d2fe5325fadd47",
+  "seed": "zgmTsM14IbtCN49Q"
+},{
+  "user": "Popplio",
+  "hash": "00bcb8ec5945b22cec4db0d371bee712221101ef09a15658676d0d02df255bb5",
+  "seed": "e2phchaBajWWuIgC"
+},{
+  "user": "Marshtomp",
+  "hash": "50da834191193b972838707107aa4ce2232505a6d0e6df62c7b0aaf73f2e8de7",
+  "seed": "CWKC9u0JdexeNqpv"
+},{
+  "user": "Azelf",
+  "hash": "e886bd3b72a088448c15f77cc99c03d53435bd36876d3d01ef366d6d9d2c1ae3",
+  "seed": "Cl44nM7r1UjMGkOL"
+},{
+  "user": "Exeggutor",
+  "hash": "19ba824091da645906dbf4c269fe474102cb2c549c921a59ea8edd83584dbfa6",
+  "seed": "m2QUGWOpIloSpDMp"
+},{
+  "user": "Slowpoke",
+  "hash": "40e3a52d2b6309c79ea75ef0a7dc6fb9a558b0d468d3f7410360af0703ca9ead",
+  "seed": "4q2YgtgmHVgvnPii"
+},{
+  "user": "Masquerain",
+  "hash": "11b15edda820d0304e9fbfebe5c82591366ed253e1d99205c086167a09ac0953",
+  "seed": "Z1820ajw2jdbvwfR"
+},{
+  "user": "Relicanth",
+  "hash": "20e0d6b495b472bc7d937ffc4ac9f044b708f3b54739827059d791111033e139",
+  "seed": "H57sS1LxyjMsrH2P"
+},{
+  "user": "Furfrou",
+  "hash": "da3feeb48f6100723634cb3c1e1db5f4fc46c0646efc5dc203970c78ddfaa1fb",
+  "seed": "x2Mt9lnnHBal0Blj"
+},{
+  "user": "Squirtle",
+  "hash": "3ef2c6acd33f8994ca35b4a208f31ad0583c8474bd0301c08cc92e0ecd14bea5",
+  "seed": "CzVPoY6XXhCDCK1Z"
+},{
+  "user": "Zangoose",
+  "hash": "83511041e1d464905fb7badca779d27d924050bd2246d476185305f95c773845",
+  "seed": "LGGeJvZqj9g5ximO"
+},{
+  "user": "Prinplup",
+  "hash": "28c30132279b6aeea0dea75a7674fa4e83f092d3615e28ddaf241e58ef0aa10d",
+  "seed": "gvhbIUbEzEwhtKGP"
+},{
+  "user": "Chinchou",
+  "hash": "7145fda820c4128c25dd5fc6cb1f1d4ab4f6f3f463c1043338a1cd3aa4863184",
+  "seed": "pytplRqp58KfEpM9"
+},{
+  "user": "Servine",
+  "hash": "36a7f32750377203e6780dbc804f6225b717c236290df25619cd9b168cdf6847",
+  "seed": "QS5RjcJRds3ZXaKk"
+},{
+  "user": "Klink",
+  "hash": "b71ed3be20e55afc51128b45f0c5b19267fd220dd9d117d9a905c0fd271d2b8d",
+  "seed": "B5HCrGBSKYpVLoxO"
+},{
+  "user": "Tangela",
+  "hash": "e970631d21794ba17ae15a623c15bb73cdc44f50db6f29bc41c1700e0b08a274",
+  "seed": "C1cZYL2gnW9E4was"
+},{
+  "user": "Aegislash",
+  "hash": "44f630fdac1a581a8b9b7ad45f114385bffe93286bd7b02147f3f0cd0bcd5821",
+  "seed": "2laYZnOBZZw2DfDo"
+},{
+  "user": "Torchic",
+  "hash": "3be2c92559bdcd4dcec55ae3eaac9c31fed6e61e70c1169c4adba48efc1745b4",
+  "seed": "FtOM3CTBlQrUenVc"
+},{
+  "user": "Rayquaza",
+  "hash": "5c48b6486a6293937b13cf0fb91283dac0a6aec0d85f951ed0d2c3461d5be748",
+  "seed": "ltJ8C9TcAgha1crJ"
+},{
+  "user": "Kingdra",
+  "hash": "a5e0959dd9523e154ddadfd11b57d5ded71d0801eca5650e1a2e11a82b11cbf2",
+  "seed": "KfC927aAhvuvcoN2"
+},{
+  "user": "Floette",
+  "hash": "b14f24aa5d771a34c71b7c37f014d679a123fc12375b361714d0dd87dc7c4c6b",
+  "seed": "3P3sVNprKj7RlROz"
+},{
+  "user": "Primarina",
+  "hash": "ca1496470b5dd84bfa02f3af9231d33d1ff2affea8984d893088c1503d26c3f9",
+  "seed": "4u59dzTVswHPoi6b"
+},{
+  "user": "Leavanny",
+  "hash": "e265111da48b577ec519ff8eb774133cbd9e342ff675bbfb093228735dc4083f",
+  "seed": "aS8djlaDwqPQDEsO"
+},{
+  "user": "Heatran",
+  "hash": "25387214abe3aef515864525cc853c3d2f0f48b5f7c046ab467e8a641a429d2b",
+  "seed": "pn3LUr8DvTK8yJEl"
+},{
+  "user": "Dewott",
+  "hash": "9daade9afc7077160e1b0a4e755c1ab03edae34ba975626dff0145259e0a42bc",
+  "seed": "KzGPZSK9tzpgAv85"
+},{
+  "user": "Duosion",
+  "hash": "56fb39710d9b5a0be6a140442addff9b210c354d145652ca9af079fced13a114",
+  "seed": "QZuMDWg2OHwTt3ye"
+},{
+  "user": "Koffing",
+  "hash": "bd0d140d1fbc3c0869441076f98b24173c2fdd4902bf5d71c7abd030a3d3f915",
+  "seed": "rgFUAUXnN2jWId6u"
+},{
+  "user": "Flaaffy",
+  "hash": "fe40c1d1abf9d62e900b66cf6725c5c88cc78a82673ca02b1d26d06e76828d59",
+  "seed": "zKkIo1ij78A52KtA"
+},{
+  "user": "Nidoqueen",
+  "hash": "2dacad4e950f336e3677bf1faf5e513db7f767f18eec3417ac4ebadf7ec4ba37",
+  "seed": "bkoTvmBH6m1HHrNE"
+},{
+  "user": "Rattata",
+  "hash": "6624b00106387ccfad2ad9c37b76a6072b71d6c0183f881e4ee75f11efcf417d",
+  "seed": "7iJsuVviLEsHHSpR"
+},{
+  "user": "Torracat",
+  "hash": "0e87281cd55b7ce2dd42bcc4d30ccf4a146eb919d3803b2b49a0d8813aec449f",
+  "seed": "eniwUHDIFZKUjg7d"
+},{
+  "user": "Aipom",
+  "hash": "2589722992a35fa2271c5c642a80b6f9f4136dd04922810eaa5fba658e262ed8",
+  "seed": "JS4LZFV8lcuwPr64"
+},{
+  "user": "Ponyta",
+  "hash": "7953d839a2b4b4ab5000a8503ad983441899af7d6863edea05d1e1060413d659",
+  "seed": "4LtBLKPmNWYtnZKz"
+},{
+  "user": "Flareon",
+  "hash": "9bba5be6753fb88750de0b03d579288c3b8fde73f8e297a7c3f01a2bee1d01f0",
+  "seed": "DaqWYbBDVqRfrQS8"
+},{
+  "user": "Wynaut",
+  "hash": "eef08ba565eea8e21d56d9cf0a0980e458e3f2cebd9b4bc52c6ab61b85211c12",
+  "seed": "SmYGYO7hcUjaPn73"
+},{
+  "user": "Durant",
+  "hash": "d1bceb0161ea922b34c242c5e658642c095b5b16b7fea8bfc24c689fcf314042",
+  "seed": "rc3Ryoz2858ol0rh"
+},{
+  "user": "Mesprit",
+  "hash": "bf23710ff461eac42831a9a2adfd1fef710778d99f60b4316fe9ac02ca56f72e",
+  "seed": "QcnFTgSvQ6ILGIOA"
+},{
+  "user": "Stoutland",
+  "hash": "8e627cab76d0e927fc7ec9fd41920d13cc04955af20e96437f99154b1dc6fab7",
+  "seed": "RBiuYECBd2HkhHwW"
+},{
+  "user": "Audino",
+  "hash": "d160697cab9b99b220bb61f180e0878550ca63308a7d12faf58a5e698158a5e3",
+  "seed": "NvN5Vtcz10XVzxdm"
+},{
+  "user": "Glameow",
+  "hash": "fd6c0d470e0f0acb184589c41b41517dff452d90bd972feac46234fc52ee3c36",
+  "seed": "mICmXjf5V6H2w1Fg"
+},{
+  "user": "Tyranitar",
+  "hash": "522e69ebe26bacd1f48df747321848d0fb8781536d1fc44b4607876016cddf39",
+  "seed": "8TKToa1Wl8aWmiDV"
+},{
+  "user": "Ferrothorn",
+  "hash": "c92993dd3d8347d7bbc5bc73a6760c20e3a0d2a9f15d5313647f26f9201d39a4",
+  "seed": "30r4epmYVTgM3ZCi"
+},{
+  "user": "Fletchinder",
+  "hash": "58020d1d45b84e309b5e1e66e2280b48bbb9cea0e772dd46f917db6676bcd0ce",
+  "seed": "VTABhM833uxFcJcg"
+},{
+  "user": "Tornadus",
+  "hash": "0ec10a9acf5f4a7bdab2db6721e2e998390f723ed7fa478495c12d7a2ea9708e",
+  "seed": "MfPIGldrku7AguVr"
+},{
+  "user": "Solrock",
+  "hash": "4c3dfb73f537c5dc59f8c4763b62d3b408243ea4c3ff9b5d9334b8a1754a8e79",
+  "seed": "DI5pZzcUsJxd6osh"
+},{
+  "user": "Skiddo",
+  "hash": "94bfcde073327e5e2abc18deb01b912cc4484fe05e27a457056f53b21a214c02",
+  "seed": "dSIZ7oLd3qXh72QJ"
+},{
+  "user": "Clauncher",
+  "hash": "849dcbaa880b37bf036ec8be6c844fc628f19b83933411ee51b4d2ad0623daad",
+  "seed": "4z0CXg5K3guypI0Z"
+},{
+  "user": "Carnivine",
+  "hash": "9378885a8d7ca5c8ec25c8ff7387757efcc5068527e750776e6921c7e71abc5b",
+  "seed": "0MuCQVK8bgeBEMVn"
+},{
+  "user": "Mothim",
+  "hash": "b9b7d270f04481045758f786cf1f21dd8f1afdf65374501174a2628fb6f74c30",
+  "seed": "wpcgUJebHh95RvaN"
+},{
+  "user": "Silcoon",
+  "hash": "5506ac720ebbb24c48194f229adc2e114b1fcdbe22bef7e1fae5fcc149b6433a",
+  "seed": "5JC49knxxV4VhUBQ"
+},{
+  "user": "Nosepass",
+  "hash": "ea4afbb6da95a261deef281e539edb1972c752c29ea2ca1fdd30b894d25468d8",
+  "seed": "eM82iQXS4tEotziw"
+},{
+  "user": "Piloswine",
+  "hash": "24e08a3e57b79b45566555542bd8005053f3731e801cb73e0354943131a8aa29",
+  "seed": "ndPLEcCzxBaYYjYQ"
+},{
+  "user": "Lopunny",
+  "hash": "c30bdfe461e0412b7f7144f2d29edd62923b9f8d1ecf6a858c379c21ae14898d",
+  "seed": "cB3c6XlmDEYuGjQx"
+},{
+  "user": "Rhyhorn",
+  "hash": "9937165a7d53d034c2a095eef4742d1bf9abc449422aff575dc57750c20b69e0",
+  "seed": "ZxZoeDcd23ulpKsN"
+},{
+  "user": "Pancham",
+  "hash": "77ef0861ba7b3384853e4e06c3039c178e20ec6ea913abd2b05bf806dee46446",
+  "seed": "WiMpMGVEyqfHJCCo"
+},{
+  "user": "Mandibuzz",
+  "hash": "9ec3140b0e0fe2150c138341adc33cb7851f531fab5e945538d49063c1275073",
+  "seed": "BadCYDNWjzALTER4"
+},{
+  "user": "Kommo-o",
+  "hash": "d549280f245a43761b9f5fda0546e67408a8e1b29eca14a3bef9ceccc01c8996",
+  "seed": "Ej3yWw46GWpzj4vT"
+},{
+  "user": "Archen",
+  "hash": "02651fec5d625ea865a1c1b05cbe502dcc3b8d51d01a73252eca131ef6967f88",
+  "seed": "VMJz57kR6HqjkvzU"
+},{
+  "user": "Liepard",
+  "hash": "d026dfc6608a888fc3ca3b5ad2dd18c4fad3074da32171337cbce7f7a193fdb6",
+  "seed": "IV6bZxGe4kMq30kt"
+},{
+  "user": "Raichu",
+  "hash": "4852f81def59edf7a7567949b6630625ceca90a73c0328016b413b9fa9156548",
+  "seed": "2RsSh5nNejG88XmE"
+},{
+  "user": "Wingull",
+  "hash": "3d130bc80262945db9fb482254d56a87b4d7e917e5558da0c617ddc1c03979cd",
+  "seed": "hn6ceEhozGyPof5V"
+},{
+  "user": "Guzzlord",
+  "hash": "2914674a3cf0ae357da3cf7308c61c0ff9b26f388753bba5098da0fc78664108",
+  "seed": "W7cqeeXRtjaQeihq"
+},{
+  "user": "Mr.",
+  "hash": "0d77b9eea7b9a8e50ec1b24c7e4410f5a777c5dd8658fdd744529e5dabb7c4dc",
+  "seed": "4COdb0QIFwBV7n3w"
+},{
+  "user": "Tropius",
+  "hash": "0890fad70335f3e0c7bbb5057b36689dfa4087880b90743abfc789d0071360c2",
+  "seed": "6qg5GihyAJd9qMI1"
+},{
+  "user": "Corsola",
+  "hash": "e4719b1527744b47b525fe4d7759820dfe0b4296cb907d2d2e5ab58566056f36",
+  "seed": "LcQcWec39udd746Q"
+},{
+  "user": "Crustle",
+  "hash": "5f5052fa1a2317a8aa1e4bb201898e90ba9181941fac5599b0b96e259dbca148",
+  "seed": "UYRJnsJ9lgxJL7sO"
+},{
+  "user": "Celebi",
+  "hash": "11db271eb958e7f95e6214b453f534644586b6e60f52dbc1662107de984210aa",
+  "seed": "QyURIKTAh2qsxKip"
+},{
+  "user": "Raticate",
+  "hash": "def2c2fa2df0bc22903504027794b3b3956b52359f97bae3fcaa8564d76a1515",
+  "seed": "9HQVjS2YOCHCpin0"
+},{
+  "user": "Misdreavus",
+  "hash": "85d77d2ce36b0f3b9d2b5c49232f84fe26526504222bbf37cf009240118c2e14",
+  "seed": "mWy0hbGW7KBmHj68"
+},{
+  "user": "Roselia",
+  "hash": "339a94d1e3180e95f98639df281d339cdc4dbd7a0de060d88adcae31b77541f7",
+  "seed": "WoPP0UPcTvCjyMj8"
+},{
+  "user": "Barbaracle",
+  "hash": "9e006456ec50d4af09fef4e85b6eda97ce570c918782debd19dac017522c38b8",
+  "seed": "pCSVbnPOuoIcI3eO"
+},{
+  "user": "Donphan",
+  "hash": "c190fbd671de00f1f43aa8ee6a4e216853e6ca6a00d81219ca68396c898b8ccd",
+  "seed": "r2brX74C7t9S8V6w"
+},{
+  "user": "Gligar",
+  "hash": "6f0de8570bee9a8771530de2075c148e6d55669c0e7572cb281c9af74dbc2c90",
+  "seed": "813TZM3CxZbmZpXB"
+},{
+  "user": "Gigalith",
+  "hash": "7132a1cc815eaebf29e64debe1a93d479be6cb760a587cd96311a0901f1b00eb",
+  "seed": "ZEoIWQYBctU2fjFr"
+},{
+  "user": "Deoxys",
+  "hash": "f9063d1ac69df127e0cded7c0663f6ff4d2f713c6c43292ec1c7716338fb93ad",
+  "seed": "9LalRJkVVsjmFN1Y"
+},{
+  "user": "Roserade",
+  "hash": "c48879b68607912e8fec7412b13d42f1c040130082e44c307e19c167e187713e",
+  "seed": "Wb0LZFEnM5AMoDmh"
+},{
+  "user": "Arceus",
+  "hash": "dcd9f776900642d091574e54cbb5739811317dbbd407bd7ae2aaad63a61104f2",
+  "seed": "rQn8ar3ULJqsUPLs"
+},{
+  "user": "Spiritomb",
+  "hash": "a8f08dc9678c882da242809a2b8e89bfd4bb6040267ca4c759a0c734be20b067",
+  "seed": "asXyP0w6aaZjJUBf"
+},{
+  "user": "Gorebyss",
+  "hash": "07c5dd3394ddfa22e7c3b34f83533b80be6f4c80bbaa14c661485099893e6e7b",
+  "seed": "GHglc0SXAVm9OzBF"
+},{
+  "user": "Latias",
+  "hash": "743bf2d7dcd8a021d1f3f2053282785cd50e5644a8304f6a949726f4339389cf",
+  "seed": "r10GnYRVL8Mitwtq"
+},{
+  "user": "Stakataka",
+  "hash": "c53d2680520f294bd1732c6dc50e5ef10a9ab63eaf6d7480df8acb3e6f680bcb",
+  "seed": "Gk9E9lcwaeMQv0NZ"
+},{
+  "user": "Gengar",
+  "hash": "97b26017ebbb8194e70cad5a8e9c204c642f6bb5ac2ba1d8ba6fef012ab667c3",
+  "seed": "BalHdcFWrgExNDmR"
+},{
+  "user": "Togekiss",
+  "hash": "d4584b116134e96db572847e5ee7edba4d565f77d51511562ac8af8dd9fcd92f",
+  "seed": "BGToKeHxidlSClfz"
+},{
+  "user": "Starly",
+  "hash": "054a8798cab8378af99bba369733ea27fe7a82b61bf9b86560bab001e3424861",
+  "seed": "8vCEmi9N6v8IFj98"
+},{
+  "user": "Typhlosion",
+  "hash": "b6cbe246588059d69162188ae14010f35dbd34064d5e7d1bb881447901ce35e2",
+  "seed": "oHTkymfcIQVj0Zrh"
+},{
+  "user": "Shieldon",
+  "hash": "ee17d9d23b6a7baaa7056ff1b9f46ee63f5d31748079c77c9ebb7fcb2935bc36",
+  "seed": "t34wNQ5kIuqiXdMl"
+},{
+  "user": "Salandit",
+  "hash": "37bbd7e49ec6925e920dfd128bfe0f7b826208b27636dcbcf1df6a3d4f5f16dc",
+  "seed": "iVc0Ww1PPrJrUz2h"
+},{
+  "user": "Spinarak",
+  "hash": "f4b9bf4ff1b5e6b7d24ffcbe8bdbc34a17034d13576d7a35a98a5540f77258b5",
+  "seed": "LRgigGN7LSRtFgbc"
+},{
+  "user": "Musharna",
+  "hash": "f10e5baf16fbaf59f25a0514f9eda17e1c7baed76e2b0f248224f3b78469dea9",
+  "seed": "YAZuZwsWa4R518lx"
+},{
+  "user": "Jynx",
+  "hash": "bca861d7c3b7ab75a1911a5f16f6622b85acb7d107a65dee17ae9e87ba026c0d",
+  "seed": "W2kuSvsHn05KWpq7"
+},{
+  "user": "Skuntank",
+  "hash": "50eed691565e9e1d672eb7c169b54739eb793950d690dd3a01317bc4275be426",
+  "seed": "n6og7M2TIbOJx4FI"
+},{
+  "user": "Gourgeist",
+  "hash": "58041c71e98bfe7ff55ee55fdbab91a17071440dafc2ae7edc72ba21e6fa9e50",
+  "seed": "Gp1gflH5E3vySrQT"
+},{
+  "user": "Shelmet",
+  "hash": "31692605821a97d4eba978572a5129ac4ac52ed563808b6547e919b853c5c783",
+  "seed": "tiQFfNiqeKi6YSTu"
+},{
+  "user": "Chatot",
+  "hash": "79bc8551d37e0718c1afc825bd56bd65634c847272ddb7d012f78380c62473be",
+  "seed": "3isr5N75laRzEhY5"
+},{
+  "user": "Phanpy",
+  "hash": "7d42299973914431a240ec199de96ee6964fcfb26e0e4af6d027e23be1d8fedd",
+  "seed": "WdxlVMDn2B2m8MRS"
+},{
+  "user": "Murkrow",
+  "hash": "7b3807521e2197bfea6db36160a5676496374078e12b2a9d9ea7ea728ca0d9fd",
+  "seed": "Q8SwRTXTMQgpwziQ"
+},{
+  "user": "Morelull",
+  "hash": "2c8b7045f69ffe3698826ba2592414d880f93ff570742957de844536b9ef4436",
+  "seed": "otkJ7oDzRtTpfcDs"
+},{
+  "user": "Rhyperior",
+  "hash": "40a6fc0816043801ffda308655218b101c2c1d183a529601164a033db228b03d",
+  "seed": "BB7lZEaAKfw5xIIP"
+},{
+  "user": "Poochyena",
+  "hash": "82d7e21e2198f4bff5ca0bf22da52d37634fdb0de39fecb20b144f0c8042af9b",
+  "seed": "BWrX265thtQlH0Sm"
+},{
+  "user": "Pichu",
+  "hash": "0a73afbcc9b408fb905b073f31f88e28befec31b61b3d9e8a32a1d90bb3a1f05",
+  "seed": "vVo9r9dxzWYiMUzg"
+},{
+  "user": "Gloom",
+  "hash": "95bf48e655ae75c90f655f3e9e1f5a90d531430990227c521a67450bed696084",
+  "seed": "6L86KVge4pkMNJBC"
+},{
+  "user": "Swanna",
+  "hash": "0c236e03de9f9b5ca212e1931185b7ce8ae4dca1d854367dce2feaff40a5db58",
+  "seed": "gpX15wnHn0S7eNC2"
+},{
+  "user": "Tangrowth",
+  "hash": "e4b20cc0ff79d051b819dd16fb3866fd101fb66132dbed1fcca81d1bb914e21e",
+  "seed": "e88wqdLC6sFK4ZbR"
+},{
+  "user": "Surskit",
+  "hash": "a135642f8c3f4a1b570efb6780d7b55b26a40e863d400945e81a14d902eaa622",
+  "seed": "NH5QKDqws9Y2JZnI"
+},{
+  "user": "Swirlix",
+  "hash": "aa886b7b07919cffe7e6dadcf9e5a7a46c53c106299a9839b89c62e002b54cb8",
+  "seed": "0hF5dvC3mQXcsPcS"
+},{
+  "user": "Wooper",
+  "hash": "b7bd4b2358ce3df3775c5e174b0ed80a2f1ff5e5fbb5dfe649dd70244ca7cd0a",
+  "seed": "8wpCBkLDyhGJkaJS"
+},{
+  "user": "Turtonator",
+  "hash": "79ae1e7d4f03d9449a746221762f65c4087079a8c0917a1ac07d8af42e103d48",
+  "seed": "yNVJfxDmWy1ayxoK"
+},{
+  "user": "Swalot",
+  "hash": "3b7bb325a5d1935f4974529b0bcb0263a9af1a3d781ea763ee70d678d8abc978",
+  "seed": "FPN2CUNaEdzGXf3m"
+},{
+  "user": "Wailord",
+  "hash": "8999489d6cca12df1712993f80e5e3d54a6eb17ba25f1d072bc46feec833a3f6",
+  "seed": "ZBm8saRWZTJaj3XE"
+},{
+  "user": "Mawile",
+  "hash": "0dbde268db449307a0b8709b93f9a31e7963c2aa6027e81dd45d084c5d296625",
+  "seed": "M03gE0fo4w4SR7TB"
+},{
+  "user": "Ralts",
+  "hash": "2515926adf7031a1232b2227c720958bc96d11208e3c35a4707e1aed7372e91c",
+  "seed": "hDAQO9DWn2Kms17k"
+},{
+  "user": "Hitmonlee",
+  "hash": "819e54f03b8afa854a14782a39e7e630e71b96fd9c31eeea9cc09c3e9ca6fbf0",
+  "seed": "iEGry03BXEfXBBPc"
+},{
+  "user": "Litleo",
+  "hash": "0a5b6e3034e802310c77fdf0f9b58ee7c384a754ac47505f0ee7febc262c15b5",
+  "seed": "UL1ZmT9c3XBxe1kx"
+},{
+  "user": "Slakoth",
+  "hash": "c83976e14ffc09cf645e9a665bce8ab6664fe1dfd6a4c9ce49f03db6a9bd6a5e",
+  "seed": "YaJ57fKSxwT1aWAz"
+},{
+  "user": "Buzzwole",
+  "hash": "6c4bd8c14f430cff3d2abc8c80f7696855e05ae861f94077368ffefda6f4eb0f",
+  "seed": "tzSLQvjJxjhMuVp2"
+},{
+  "user": "Muk",
+  "hash": "2742a9414bd8d70392547249ab53861d654aabd2d5c08a0aef54d2f5f585b829",
+  "seed": "ZBKR1sn9hpvz246j"
+},{
+  "user": "Magmar",
+  "hash": "23485302a25d053d708157a5228940c57ec57bbd42e39ecbb2ebfb0f338e0eb7",
+  "seed": "eel9H0sB7544bhje"
+},{
+  "user": "Munna",
+  "hash": "688da9eab7147470006761b3a16c8afb8e7d9f1b8ae45b1bf25ebd702b9893c0",
+  "seed": "c9OQumQVw139T6k9"
+},{
+  "user": "Bouffalant",
+  "hash": "103119b77a73176af605cf0a1c825a31826888f214ac8243e586fd704702b063",
+  "seed": "tASjdxppS5GozMyI"
+},{
+  "user": "Dusknoir",
+  "hash": "80cf097cb107d342b7a4109923f7daaf928c7b7c33fb4189ceddb7bf08f3c609",
+  "seed": "M28fqIN3I5dKxCtL"
+},{
+  "user": "Natu",
+  "hash": "537378b519d1dfa78465f35bd75ac3bb329a4d85e32efb23044f9194875deb58",
+  "seed": "39YbHE437Qh3oh5s"
+},{
+  "user": "Poipole",
+  "hash": "96d6ddceb9b75b7dfb67a6a602872e7db12d37b8332c08ff4cf3fc248ee084e9",
+  "seed": "BCEGY5VPEtDgG4lN"
+},{
+  "user": "Whismur",
+  "hash": "2e729062aadc19a7a69eb03a3b9c2b64eaa2ea078fc4861d08b7f6a3688ce060",
+  "seed": "DHKTZEt8GM1APqGs"
+},{
+  "user": "Loudred",
+  "hash": "f0cbb5881d3042cfbf223c6d76d6d5a9850cdab0fd91eb94792df2fbdc504bff",
+  "seed": "bt8cUbAsDjB1Y7Bt"
+},{
+  "user": "Illumise",
+  "hash": "52d77ecd6e6792989b72fcf7b09c98ef1781033c7cdbaa187a8b118e9a56807f",
+  "seed": "87wJePzNeVzpkdB4"
+},{
+  "user": "Chespin",
+  "hash": "862b49ca1f8b8e50ebd5d21c2982e122231f8dd3f735eba75cbefc2250ce55f2",
+  "seed": "eWEsfIJDHhvjj1dx"
+},{
+  "user": "Lunala",
+  "hash": "3d6da51818838ddd9638d69ac8e42440894c24ca4418151c464261f4deef154a",
+  "seed": "VYCNE2XLQ3CH8kxE"
+},{
+  "user": "Groudon",
+  "hash": "713e91450ab422fafd0b81c942edc22d1c0dae00eafd3414e815d385e8bda5ba",
+  "seed": "l8AYZwt9IhyqrEep"
+},{
+  "user": "Growlithe",
+  "hash": "0b7555e75b0d505a1e9c7be79522a1530995ef4ca8d57cc42a803028ba5368e9",
+  "seed": "hZLkDirsisUGtT19"
+},{
+  "user": "Buizel",
+  "hash": "55b4a3f1e350b906931d0c2791c0c029a3be96149eb8ef2df244f22646d9c957",
+  "seed": "CM4BXC47iQkWYSQT"
+},{
+  "user": "Aurorus",
+  "hash": "664f2e071d5d778cc37e481cd7613b9c96b89d7afcafc167b633026764a4ac02",
+  "seed": "zXoR6bRTw796Wrx8"
+},{
+  "user": "Emolga",
+  "hash": "4e8061446b51a5550179fd1d75302ea624e383319f2680a3e2fa233fc62edfd8",
+  "seed": "nlC7xVmN9e9xUQb7"
+},{
+  "user": "Magnezone",
+  "hash": "17a48c0485d9da5916a928a7873f102ce4541ce19fb2e1a4a07785614c1a1821",
+  "seed": "fbzWSWCJUSWFzTxq"
+},{
+  "user": "Haxorus",
+  "hash": "4a0051894f08a93beff2edac11d6f3ce443bad49061b7fc11afbc3ee2791526d",
+  "seed": "30eMFHw9Jqxwesqu"
+},{
+  "user": "Heliolisk",
+  "hash": "61c02c037f3f0354bf37f4f48634daca808d83e248388f277c678bdc5406b7ba",
+  "seed": "Nb8acDqYPTjD5MqL"
+},{
+  "user": "Krookodile",
+  "hash": "e4e94413db8f35cf8daa54e2486acf42e0099d10f676515dd05483e5d1efee45",
+  "seed": "eTqqTlqs51mMKKDM"
+},{
+  "user": "Gothitelle",
+  "hash": "e7a6c46803623d71feb91cbe898cbc21e05fdb3db8a990fb351973838bf3a01c",
+  "seed": "Wza1Pb300A9Epw8Q"
+},{
+  "user": "Ledian",
+  "hash": "15a288b4ba9de36a36c90ef61055589855196b802b68d2a9955591f33039aef0",
+  "seed": "zrZi9YRRakKfyjWD"
+},{
+  "user": "Hippopotas",
+  "hash": "76b5e5aac2c09f0723f729499669b327eae5cb644dadbd7b00c4de6598be57ea",
+  "seed": "G1vvFraTvTnneGEK"
+},{
+  "user": "Lampent",
+  "hash": "c88fb3b103e693494a6b3bc2962e26c403f96f5c4c2f0776dedae9e471c7798f",
+  "seed": "MKITzgAPjxxHgRKy"
+},{
+  "user": "Herdier",
+  "hash": "fc1c1b84f1adbf9ffb2218119cda836e942f6ca88844362ce0deeb6e2420e800",
+  "seed": "KhrJkRRvjN0bmPwm"
+},{
+  "user": "Kartana",
+  "hash": "d62963dce96dcef61a11252ef0f4a7aec1ce05b1eb65f82a33e54290210dd5e1",
+  "seed": "tKnBnLv9hxaDlTgg"
+},{
+  "user": "Rufflet",
+  "hash": "22cf148987d39fd2acebef22d25e11eab60b4ec964ae459ccc8987f7df9f6066",
+  "seed": "t7tZf72VTO9gepRr"
+},{
+  "user": "Parasect",
+  "hash": "7d1b4037d3619f326279f13329494bd520076ace8431f78b68adeb4e47b3e2b4",
+  "seed": "i25y7SAavYT0UW1r"
+},{
+  "user": "Celesteela",
+  "hash": "f3f343df9ef23e1af8b837bb89281799960ef08cfc91bf263ccc011c594a220c",
+  "seed": "Qp0FYYjMFI9VLugR"
+},{
+  "user": "Snorlax",
+  "hash": "a64277152168ce3d39219bdccca7b00208e9b22854fd5bb98f48e59e11f649d5",
+  "seed": "sVI7BZmV9r3GhHUH"
+},{
+  "user": "Oricorio",
+  "hash": "ea3f1473d0b893688ae118e2201df71381176937368e486cccad5f8753a594cd",
+  "seed": "oj1dgEe6pHC06N3j"
+},{
+  "user": "Lapras",
+  "hash": "dc491e6d58165ec5c68d9801410831b24efa740318381c1caf3483e96f68a5f4",
+  "seed": "frSnD6d3sK8sUh7V"
+},{
+  "user": "Stunky",
+  "hash": "999bc8f9b8e303b0b996e8f0bb37e2bd1e6ecd2c296678a4f79de8a5b08da904",
+  "seed": "d1mxziyL6qRjo9i3"
+},{
+  "user": "Seviper",
+  "hash": "c0878a4a8211299cea83632e3aa288f6b8cb423490bfc114cb1026d2570cd67e",
+  "seed": "1gaBLK9p7BbAQH0K"
+},{
+  "user": "Simisear",
+  "hash": "0b3375f126717838743574d6c0b24d143a57c77e05f8aa2b850237160313e055",
+  "seed": "0hkmzHAm3d83K7Zd"
+},{
+  "user": "Larvitar",
+  "hash": "75a263cbbb1d08e5969a4f8c6d4bdc31a1c057a585cc61590cac1d26820b4d90",
+  "seed": "4usvXxzl233nOxCB"
+},{
+  "user": "Pidgeot",
+  "hash": "d73d8ffcc39923ff2456f2594924bec125182519922b33b26b24e9a6a3f71245",
+  "seed": "3Bg67hoge67LmpVz"
+},{
+  "user": "Exploud",
+  "hash": "470f002b2be0952455b8a72b1482e2b5b4e06729f4da9ac5294bf2cc1fe19d71",
+  "seed": "lDTxOS4MPQ98TC4j"
+}]
