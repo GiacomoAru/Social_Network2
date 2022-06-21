@@ -1,0 +1,32 @@
+#il carattere '#' ad inizio linea definisce un commento
+#Un espressione ben formata di definizione di un parametro prevede il nome del
+#parametro seguito da un uguale seguito dal valore del parametro seguito da 
+#un acapo
+#i valori tra parentesi quadre sono i valori di default
+#parametri non riconosciuti saranno saltati, parametri omessi porteranno un 
+#inizializzazione automatica del corrispondente valore da parte del server
+
+#indirizzo ip server [localhost]
+serverAddress=localhost
+#porta per la connessione tcp verso il server [6967]
+serverTCPPort=6967
+
+#indirizzo ip servizio di registrazione [localhost]
+registerServiceAddress=localhost 
+#porta servizio di registrazione [6969]
+registerServicePort=6969
+#nome servizio di registrazione [REGISTER_SERVICE]
+registerServiceName=REGISTER_SERVICE
+
+#indirizzo ip servizio di notifica dei follow [localhost]
+notifyFollowServiceAddress=localhost 
+#porta servizio di notifica dei follow [6968]
+notifyFollowServicePort=6968
+#porta servizio di registrazione [NOTIFY_FOLLOW_SERVICE]
+notifyFollowServiceName=NOTIFY_FOLLOW_SERVICE
+
+#timeout della socket (millisecondi) [15000]
+timeout=15000
+
+#per attivare o disattivare alcune stampe utili al debug, consigliato false [false]
+debug=false

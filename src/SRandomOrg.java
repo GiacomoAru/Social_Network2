@@ -18,7 +18,7 @@ public class SRandomOrg {
         HttpURLConnection connection = null;
         double ret = 0;
         try {
-            URL url = new URL("https://www.random.org/integers/?num=1&min=1&max="+ Math.pow(10, precisione) +"&col=1&base=10&format=plain&rnd=new");
+            URL url = new URL("https://www.random.org/integers/?num=1&min=1&max="+ (int) Math.pow(10, precisione) +"&col=1&base=10&format=plain&rnd=new");
 
             //invia la richiesta http
             connection = (HttpURLConnection) url.openConnection();

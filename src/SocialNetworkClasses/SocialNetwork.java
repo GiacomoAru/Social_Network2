@@ -121,7 +121,7 @@ public class SocialNetwork implements SocialNetworkInterface {
 
                 //ormai il post è irraggiungibile dagli altri thread perchè non presente ne
                 //nella hashtable dei post ne nell'istanza dell'autore
-                //ci manca solo rimuovere tutti gli utenti
+                //ci manca solo rimuovere tutti i commenti
                 for (Long l: dummyP.getAllComment()) {
                     comments.remove(l);
                 }
@@ -131,14 +131,16 @@ public class SocialNetwork implements SocialNetworkInterface {
                         posts.values()) {
                     if(p.rewin){
                         if(((PostRewin) p).getReference() == dummyP.id){
-                            comments.remove(p.id);
+                            Post d2 = posts.remove(p.id);
                             users.get(p.getAuthor()).deletePost(p);//se c'è il post c'è l'autore
+                            for (Long l: d2.getAllComment()) {
+                                comments.remove(l);
+                            }
                         }
                     }
                 }
 
-                //post eliminato
-
+                //post eliminato completamente
             }
         }finally{userRLock.unlock();}
         return true;
@@ -210,7 +212,7 @@ public class SocialNetwork implements SocialNetworkInterface {
     @Override
     public ArrayList<PostToken> getBlog(String user) throws UserNotFoundException {
         userRLock.lock();
-        ArrayList<PostToken> ret = null;
+        ArrayList<PostToken> ret;
         try{
             User u = users.get(user);
             if(u == null) throw new UserNotFoundException(user);

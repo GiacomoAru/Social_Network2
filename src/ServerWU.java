@@ -43,13 +43,13 @@ public class ServerWU extends Thread {
                 Thread.sleep(pause);
             } catch (InterruptedException e) {
                 Thread.currentThread().interrupt();
-                ServerMain.stamp("wu chiusura...");
+                ServerMain.stamp("WU chiusura...");
                 continue;
             }
 
-            ServerMain.stamp("aggiornamento periodico portafogli in corso...");
+            ServerMain.stamp("Aggiornamento periodico portafogli in corso...");
             social.updateWallet(); //update portafoglio
-            ServerMain.stamp("aggiornamento portafogli terminato");
+            ServerMain.stamp("Aggiornamento portafogli terminato");
 
 
             data = df.format(Calendar.getInstance().getTime()).getBytes();

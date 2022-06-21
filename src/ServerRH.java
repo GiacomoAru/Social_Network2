@@ -527,7 +527,7 @@ public class ServerRH implements Runnable {
                     case "15": //getWalletBtc
                         try {
 
-                            double convers = SRandomOrg.getDouble(10);
+                            double convers = SRandomOrg.getDouble(5);
                             String risp = "0|" + social.getWalletValue(nameUser)*convers + "|~";
 
                             ServerMain.stamp(Thread.currentThread().getName() +" getWalletBtc");

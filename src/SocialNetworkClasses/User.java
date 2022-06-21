@@ -163,7 +163,7 @@ public class User implements Comparable<User>, Serializable {
         return wallet;
     }
     public synchronized boolean getWalletHistory(List<WalletTransaction> ret) {
-
+        ret.clear();
         ret.addAll(walletHistory);
         return true;
     }

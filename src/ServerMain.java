@@ -15,10 +15,9 @@ import java.util.concurrent.*;
 
 public class ServerMain{
 
-    //file di config, da mettere come input
+    //file di config
     private final String configFilePath;
 
-    //porta servizio di registrazione
     private int registerServicePort = 6969;
     private int notifyFollowServicePort = 6968;
     private int serverPort = 6967;
@@ -47,15 +46,19 @@ public class ServerMain{
     //max thread
     private int nThread = 0;
 
+    //lista utenti registrati e social
     private final HashMap<String, SHPsw> registedUser = new HashMap<>();
     private SocialNetworkInterface social;
 
+    //thread e task importanti per l'esecuzione del server
+    //alcune non necessarie come variabili globali
     private Thread serverCA;
     private ServerBK bakcupT;
     private ServerWU walletT;
     private ServerSocket ss;
     private ExecutorService tpool;
 
+    //avvio
     public static void main(String[] args) throws Exception {
         if(args.length >= 1) (new ServerMain(args[0])).start();
         else (new ServerMain(null)).start();
@@ -72,7 +75,10 @@ public class ServerMain{
             File config = new File(configFilePath);
             if(config.exists()){
                 parseConfig(config);
+                System.out.println("Avvio server con file config: " + configFilePath);
             }
+        }else{
+            System.out.println("Avvio server con parametri di default");
         }
 
         //strutture dati ecc
@@ -131,32 +137,37 @@ public class ServerMain{
         walletT.start();
 
 
-        //attesa comandi console (stop per terminare)
-        Scanner s = new Scanner(System.in);
-        String in = s.nextLine();
-        while(!in.equals("stop")){
-            switch (in){
-                case "social":
-                    System.out.println(social);
-                    break;
-                case "reg":
-                    for (SHPsw dummy: registedUser.values()) {
-                        System.out.println(dummy);
-                    }
-                    break;
-                case "update":
-                    social.updateWallet();
-                    break;
-                case "help":
-                    stamp("\nComandi disponibili: \nsocial : stampa una semplice rappresentazione del contenuto del social\nreg : " +
-                            "stampa una semplice rappresentazione dell'insieme di utenti registrati con associati dadi di login" +
-                            "\nupdate : aggiorna i portafogli degli utenti nel social (non resetta il timer per il prossimo aggiornamento)" +
-                            "\nstop : termina l'esecuzione del server eseguendo prima un salvataggio dello stato");
-                    break;
-                default:
-                    System.out.println("comando non riconosciuto");
+        try {
+            //attesa comandi console (stop per terminare)
+            Scanner s = new Scanner(System.in);
+            String in = s.nextLine();
+            while (!in.equals("stop")) {
+                switch (in) {
+                    case "social":
+                        System.out.println(social);
+                        break;
+                    case "reg":
+                        for (SHPsw dummy : registedUser.values()) {
+                            System.out.println(dummy);
+                        }
+                        break;
+                    case "update":
+                        social.updateWallet();
+                        System.out.println("Aggiornamento portafogli effettuato");
+                        break;
+                    case "help":
+                        System.out.println("\nComandi disponibili: \nsocial : stampa una semplice rappresentazione del contenuto del social\nreg : " +
+                                "stampa una semplice rappresentazione dell'insieme di utenti registrati con associati dadi di login" +
+                                "\nupdate : aggiorna i portafogli degli utenti nel social (non resetta il timer per il prossimo aggiornamento)" +
+                                "\nstop : termina l'esecuzione del server eseguendo prima un salvataggio dello stato");
+                        break;
+                    default:
+                        System.out.println("comando non riconosciuto");
+                }
+                in = s.nextLine();
             }
-            in = s.nextLine();
+        } catch (Exception e) {
+            System.out.println("Errore ricezione comandi, chiusura server");
         }
 
         stamp("Interruzione thread e termine accettazione richieste dai client...");
@@ -194,17 +205,21 @@ public class ServerMain{
         }
     }
 
+    //metodo che esegue il parsing del file di configurazione
     public void parseConfig(File f) throws FileNotFoundException {
         Scanner in = new Scanner(f);
         int i = 1;
 
         while(in.hasNextLine()){
             String line = in.nextLine();
+            //commento
             if(line.length() == 0 || line.charAt(0) == '#'){
                 i++;
                 continue;
             }
+            //vengono modificte le variabili globali se viene trovata una riga corrispondente corretta nel file
             try {
+                //eliminazione spazzi e parsing della linea
                 String[] arg = line.replace(" ", "").split("=");
                 if(arg.length != 2) throw new IllegalArgumentException();//linea scritta male
                 switch (arg[0]) {

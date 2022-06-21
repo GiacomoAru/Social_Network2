@@ -60,6 +60,7 @@ public class Client implements Runnable{
         resetFollow();
     }
 
+    //metodo per far partite il client che attende comandi dalla shell e esegue
     public void run(){
         Scanner s = new Scanner(System.in);
         stamp(0, "Client avviato con successo");
@@ -74,7 +75,7 @@ public class Client implements Runnable{
         chiusuraTcp();
     }
 
-    //trasforma i comandi da tastiera in metodi associati
+    //trasforma i comandi passati in input in richieste al server, se serve
     public void strignParser(String com){
         String[] split = com.split(" ");
         if(split.length < 1){
@@ -157,12 +158,12 @@ public class Client implements Runnable{
                     }
                 break;
                 case "delete":
-                    if(split.length < 2) stamp(1, "parametri sbagliati, provare comando help a");
+                    if(split.length < 2) stamp(1, "parametri sbagliati, provare comando help");
                     else{
                         try{
                             deletePost(Long.parseLong(split[1]));
                         }catch (Exception e){
-                            stamp(1, "parametri sbagliati, provare comando help b");
+                            stamp(1, "parametri sbagliati, provare comando help");
                         }
                     }
                 break;
@@ -248,7 +249,7 @@ public class Client implements Runnable{
         }
     }
 
-    //instaurazione connessione tcp e login
+    //instaurazione connessione tcp e login, registrazione eccetera
     private void login(String name, String password){
         try {
             //login già effettuato, connessione già aperta
@@ -796,7 +797,7 @@ public class Client implements Runnable{
         followNotication.clear();
     }
 
-    //chiude il socket se aperto e rende null socket e stream
+    //procedura di chiusura connessione corretta
     private void chiusuraTcp(){
         if(serverTcpS == null) return;
 

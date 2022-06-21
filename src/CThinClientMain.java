@@ -9,15 +9,17 @@ public class CThinClientMain {
             System.err.println("Usage: java LoadClient <remote URL>");
             System.exit(-1);
         }
-        System.setProperty("java.security.policy", "MyGrantAllPolicy.policy");
-        if (System.getSecurityManager() == null) System.setSecurityManager(new RMISecurityManager());
         try {
+            //inizializzazione ed avvio client
             URL url = new URL(Args[0]);
             String configPath = null;
             if (Args.length >= 2) configPath = Args[1];
+            System.out.println(configPath);
             Class<?> client_Class = RMIClassLoader.loadClass(url, "Client");
             Runnable client = (Runnable) client_Class.getDeclaredConstructor(String.class).newInstance(configPath);
+            //avvio con run
             client.run();
+            //terminazione
             System.exit(0);
         }
         catch (Exception e) {
